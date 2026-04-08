@@ -1,0 +1,20 @@
+[
+  {
+    "id": "genre-001",
+    "name": "원신",
+    "aliases": ["Genshin Impact", "겐신"],
+    "media": ["game"]
+  },
+  {
+    "id": "genre-002",
+    "name": "블루 아카이브",
+    "aliases": ["블아", "Blue Archive"],
+    "media": ["game"]
+  },
+  {
+    "id": "genre-003",
+    "name": "하이큐!!",
+    "aliases": ["하이큐", "ハイキュー"],
+    "media": ["anime", "manga"]
+  }
+]

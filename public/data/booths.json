@@ -1,0 +1,13 @@
+[
+  {
+    "id": "booth-001",
+    "eventId": "evt-001",
+    "boothNumber": "A-042",
+    "name": "별빛공방",
+    "days": ["2025-08-02", "2025-08-03"],
+    "size": "general",
+    "genres": ["genre-001", "genre-003"],
+    "artists": ["artist-001"],
+    "thumbnailUrl": null
+  }
+]

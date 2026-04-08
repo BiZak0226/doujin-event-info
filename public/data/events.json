@@ -1,0 +1,34 @@
+[
+  {
+    "id": "evt-001",
+    "name": "코믹월드 서울 2025",
+    "type": "comic_market",
+    "startDate": "2025-08-02",
+    "endDate": "2025-08-03",
+    "venue": {
+      "name": "COEX 홀 A",
+      "address": "서울특별시 강남구 영동대로 513",
+      "lat": 37.5115,
+      "lng": 127.0595
+    },
+    "ticketUrl": "https://example.com/ticket",
+    "ticketPrice": 5000,
+    "status": "upcoming"
+  },
+  {
+    "id": "evt-002",
+    "name": "판타지아 페스타 2025",
+    "type": "only_event",
+    "startDate": "2025-09-14",
+    "endDate": "2025-09-14",
+    "venue": {
+      "name": "aT센터",
+      "address": "서울특별시 서초구 강남대로 27",
+      "lat": 37.4792,
+      "lng": 127.0467
+    },
+    "ticketUrl": null,
+    "ticketPrice": 0,
+    "status": "upcoming"
+  }
+]

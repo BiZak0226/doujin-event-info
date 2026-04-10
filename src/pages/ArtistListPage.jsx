@@ -1,13 +1,13 @@
 import PageHeader from '../components/common/PageHeader'
 
-export default function MainPage() {
+export default function ArtistListPage() {
   return (
     <div>
       <PageHeader
-        title="동인 행사 정보"
-        description="국내 동인 행사 일정과 부스 정보를 한눈에 확인하세요."
+        title="작가 목록"
+        description="행사에 참여한 작가들의 프로필과 SNS 링크를 확인하세요."
       />
-      {/* TODO: 이번 달 행사 목록 또는 가까운 행사 3개 */}
+      {/* TODO: 작가 카드 목록, 검색 */}
       <p style={{ color: 'var(--color-text-muted)', fontSize: 'var(--text-sm)' }}>
         준비 중입니다.
       </p>

@@ -1,34 +1,491 @@
-[
-  {
-    "id": "evt-001",
-    "name": "코믹월드 서울 2025",
-    "type": "comic_market",
-    "startDate": "2025-08-02",
-    "endDate": "2025-08-03",
-    "venue": {
-      "name": "COEX 홀 A",
-      "address": "서울특별시 강남구 영동대로 513",
-      "lat": 37.5115,
-      "lng": 127.0595
+{
+  "eventTypes": {
+    "comicworld": {
+      "name": "코믹월드",
+      "shortName": "CW",
+      "links": {
+        "homepage": "https://comicw.net/",
+        "twitter": "https://x.com/comicw",
+        "twitter_": "https://x.com/comicw_plus",
+        "gall": "https://gall.dcinside.com/mgallery/board/lists?id=comicw"
+      }
     },
-    "ticketUrl": "https://example.com/ticket",
-    "ticketPrice": 5000,
-    "status": "upcoming"
+    "illustarfes": {
+      "name": "일러스타 페스",
+      "shortName": "ILFE",
+      "links": {
+        "homepage": "https://illustar.net/",
+        "twitter": "https://x.com/illustar_fes",
+        "blue sky": "https://bsky.app/profile/illustar.bsky.social"
+      }
+    },
+    "comiverse": {
+      "name": "코미버스",
+      "shortName": "COMI",
+      "links": {
+        "homepage": "https://comiverse.kr/"
+      }
+    }
   },
-  {
-    "id": "evt-002",
-    "name": "판타지아 페스타 2025",
-    "type": "only_event",
-    "startDate": "2025-09-14",
-    "endDate": "2025-09-14",
-    "venue": {
-      "name": "aT센터",
-      "address": "서울특별시 서초구 강남대로 27",
-      "lat": 37.4792,
-      "lng": 127.0467
+  "events": [
+    {
+      "id": "cw_331",
+      "name": "코믹월드 331회 부산",
+      "shortName": "CW331 부산",
+      "type": "comicworld",
+      "episode": 331,
+      "city": "부산",
+      "venue": "BEXCO 제2전시장",
+      "dates": {
+        "start": "2026-03-28",
+        "end": "2026-03-29"
+      },
+      "status": "ended",
+      "links": {
+        "boothData": "data/booths.json"
+      }
     },
-    "ticketUrl": null,
-    "ticketPrice": 0,
-    "status": "upcoming"
-  }
-]
+    {
+      "id": "cw_322",
+      "name": "코믹월드 332 수원",
+      "shortName": "CW332 수원",
+      "type": "comicworld",
+      "episode": 322,
+      "city": "수원",
+      "venue": "수원메쎄 전관",
+      "dates": {
+        "start": "2026-05-02",
+        "end": "2026-05-03"
+      },
+      "status": "upcoming"
+    },
+    {
+      "id": "cw_333",
+      "name": "코믹월드 333 부산",
+      "shortName": "CW333 부산",
+      "type": "comicworld",
+      "episode": 333,
+      "city": "부산",
+      "venue": "부산 벡스코 2전시장 4홀",
+      "dates": {
+        "start": "2026-05-16",
+        "end": "2026-05-17"
+      },
+      "status": "upcoming"
+    },
+    {
+      "id": "cw_334",
+      "name": "코믹월드 SUMMER 2026",
+      "shortName": "CW334 SUMMER",
+      "type": "comicworld",
+      "episode": 334,
+      "city": "일산",
+      "venue": "일산 킨텍스 제1전시장",
+      "dates": {
+        "start": "2026-07-18",
+        "end": "2026-07-19"
+      },
+      "status": "upcoming"
+    },
+    {
+      "id": "cw_335",
+      "name": "코믹월드 335 일산",
+      "shortName": "CW335 일산",
+      "type": "comicworld",
+      "episode": 335,
+      "city": "일산",
+      "venue": "일산 킨텍스 제1전시장",
+      "dates": {
+        "start": "2026-08-15",
+        "end": "2026-08-16"
+      },
+      "status": "upcoming"
+    },
+    {
+      "id": "comiverse_1",
+      "name": "코미버스",
+      "shortName": "COMI 1",
+      "type": "comiverse",
+      "episode": 1,
+      "city": "서울",
+      "venue": "양재 aT센터 제1전시장",
+      "dates": {
+        "start": "2026-05-23",
+        "end": "2026-05-24"
+      },
+      "status": "upcoming"
+    },
+    {
+      "id": "ilfe_1",
+      "name": "일러스타 페스 1회",
+      "shortName": "ILFE 1",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 1,
+      "city": "서울",
+      "venue": "SETEC 전시장 제1·3관",
+      "dates": {
+        "start": "2023-01-28",
+        "end": "2023-01-29"
+      },
+      "status": "ended",
+      "collaboration": [
+        "VOCASTAR"
+      ]
+    },
+    {
+      "id": "ilfe_2",
+      "name": "일러스타 페스 2회",
+      "shortName": "ILFE 2",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 2,
+      "city": "일산",
+      "venue": "KINTEX 제1전시장 5홀",
+      "dates": {
+        "start": "2023-10-07",
+        "end": "2023-10-08"
+      },
+      "status": "ended",
+      "collaboration": [
+        "KivotoStar",
+        "VIRTUALLSTAR",
+        "VOCASTAR"
+      ]
+    },
+    {
+      "id": "ilfe_3",
+      "name": "일러스타 페스 3회",
+      "shortName": "ILFE 3",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 3,
+      "city": "일산",
+      "venue": "KINTEX 제2전시장 7·8·10B홀",
+      "dates": {
+        "start": "2024-02-17",
+        "end": "2024-02-18"
+      },
+      "status": "ended",
+      "collaboration": [
+        "VOCASTAR",
+        "VIRTUALLSTAR",
+        "CREASTAR"
+      ]
+    },
+    {
+      "id": "ilfe_4",
+      "name": "일러스타 페스 4회",
+      "shortName": "ILFE 4",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 4,
+      "city": "일산",
+      "venue": "KINTEX 제1전시장 2·3홀",
+      "dates": {
+        "start": "2024-05-04",
+        "end": "2024-05-05"
+      },
+      "status": "ended",
+      "collaboration": [
+        "VOCASTAR",
+        "VIRTUALLSTAR",
+        "CREASTAR"
+      ]
+    },
+    {
+      "id": "ilfe_5",
+      "name": "일러스타 페스 5회",
+      "shortName": "ILFE 5",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 5,
+      "city": "서울",
+      "venue": "SETEC 전시장 제1·2·3관",
+      "dates": {
+        "start": "2024-08-24",
+        "end": "2024-08-25"
+      },
+      "status": "ended",
+      "collaboration": [
+        "超VOCASTAR",
+        "VIRTUALLSTAR",
+        "CREASTAR"
+      ]
+    },
+    {
+      "id": "ilfe_6",
+      "name": "일러스타 페스 6회",
+      "shortName": "ILFE 6",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 6,
+      "city": "일산",
+      "venue": "KINTEX 제1전시장 2·3·4홀",
+      "dates": {
+        "start": "2025-02-08",
+        "end": "2025-02-09"
+      },
+      "status": "ended",
+      "collaboration": [
+        "제4회 봉래제"
+      ]
+    },
+    {
+      "id": "ilfe_7",
+      "name": "일러스타 페스 7회",
+      "shortName": "ILFE 7",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 7,
+      "city": "일산",
+      "venue": "KINTEX 제1전시장 4·5홀",
+      "dates": {
+        "start": "2025-05-03",
+        "end": "2025-05-04"
+      },
+      "status": "ended",
+      "collaboration": [
+        "VOCASTAR",
+        "VIRTUALLSTAR",
+        "CREASTAR"
+      ]
+    },
+    {
+      "id": "ilfe_8",
+      "name": "일러스타 페스 8회",
+      "shortName": "ILFE 8",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 8,
+      "city": "부산",
+      "venue": "BEXCO 제1전시장 3홀",
+      "dates": {
+        "start": "2025-08-09",
+        "end": "2025-08-10"
+      },
+      "status": "ended",
+      "collaboration": [
+        "VOCASTAR",
+        "VIRTUALLSTAR",
+        "CREASTAR"
+      ]
+    },
+    {
+      "id": "ilfe_9",
+      "name": "일러스타 페스 9회",
+      "shortName": "ILFE 9",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 9,
+      "city": "일산",
+      "venue": "KINTEX 제2전시장 8홀",
+      "dates": {
+        "start": "2025-10-03",
+        "end": "2025-10-04"
+      },
+      "status": "ended",
+      "collaboration": [
+        "超VOCASTAR"
+      ]
+    },
+    {
+      "id": "ilfe_10",
+      "name": "일러스타 페스 10회",
+      "shortName": "ILFE 10",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 10,
+      "city": "일산",
+      "venue": "KINTEX 제1전시장 4·5홀",
+      "dates": {
+        "start": "2026-02-21",
+        "end": "2026-02-22"
+      },
+      "status": "ended"
+    },
+    {
+      "id": "ilfe_11",
+      "name": "일러스타 페스 11회",
+      "shortName": "ILFE 11",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 11,
+      "city": "일산",
+      "venue": "KINTEX 제2전시장 9·10홀",
+      "dates": {
+        "start": "2026-05-23",
+        "end": "2026-05-24"
+      },
+      "status": "upcoming"
+    },
+    {
+      "id": "ilfe_12",
+      "name": "일러스타 페스 12회",
+      "shortName": "ILFE 12",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 12,
+      "city": "부산",
+      "venue": "BEXCO",
+      "dates": {
+        "start": "2026-08-01",
+        "end": "2026-08-02"
+      },
+      "status": "upcoming"
+    },
+    {
+      "id": "ilfe_13",
+      "name": "일러스타 페스 13회",
+      "shortName": "ILFE 13",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 13,
+      "city": "일산",
+      "venue": "KINTEX",
+      "dates": {
+        "start": "2026-08-29",
+        "end": "2026-08-30"
+      },
+      "status": "upcoming"
+    },
+    {
+      "id": "ilfe_14",
+      "name": "일러스타 페스 14회",
+      "shortName": "ILFE 14",
+      "type": "illustarfes",
+      "category": "regular",
+      "episode": 14,
+      "city": "일산",
+      "venue": "KINTEX",
+      "dates": {
+        "start": "2026-10-10",
+        "end": "2026-10-11"
+      },
+      "status": "upcoming"
+    },
+    {
+      "id": "ilfe_special_1",
+      "name": "일러스타 페스 (부천국제만화축제)",
+      "shortName": "ILFE Special",
+      "type": "illustarfes",
+      "category": "special",
+      "episode": null,
+      "city": "부천",
+      "venue": "한국만화박물관",
+      "dates": {
+        "start": "2024-10-03",
+        "end": "2024-10-06"
+      },
+      "status": "ended",
+      "collaboration": [
+        "부천국제만화축제 2024"
+      ]
+    },
+    {
+      "id": "ilfe_petit_1",
+      "name": "일러스타 쁘띠 1회",
+      "shortName": "ILFE Petit 1",
+      "type": "illustarfes",
+      "category": "petit",
+      "episode": 1,
+      "city": "부산",
+      "venue": "BEXCO 컨벤션홀 3층",
+      "dates": {
+        "start": "2023-11-16",
+        "end": "2023-11-19"
+      },
+      "status": "ended",
+      "collaboration": [
+        "G-STAR 2023"
+      ]
+    },
+    {
+      "id": "ilfe_petit_2",
+      "name": "일러스타 쁘띠 2회",
+      "shortName": "ILFE Petit 2",
+      "type": "illustarfes",
+      "category": "petit",
+      "episode": 2,
+      "city": "판교",
+      "venue": "판교역 광장",
+      "dates": {
+        "start": "2024-09-06",
+        "end": "2024-09-07"
+      },
+      "status": "ended",
+      "collaboration": [
+        "Game culture X Generation 2024"
+      ]
+    },
+    {
+      "id": "ilfe_petit_3",
+      "name": "일러스타 쁘띠 3회",
+      "shortName": "ILFE Petit 3",
+      "type": "illustarfes",
+      "category": "petit",
+      "episode": 3,
+      "city": "전주",
+      "venue": "전주실내체육관",
+      "dates": {
+        "start": "2024-10-26",
+        "end": "2024-10-27"
+      },
+      "status": "ended",
+      "collaboration": [
+        "전북 서브컬처 게임 페스티벌 2024"
+      ]
+    },
+    {
+      "id": "ilfe_petit_4",
+      "name": "일러스타 쁘띠 4회",
+      "shortName": "ILFE Petit 4",
+      "type": "illustarfes",
+      "category": "petit",
+      "episode": 4,
+      "city": "부산",
+      "venue": "BEXCO 제2전시장",
+      "dates": {
+        "start": "2024-11-14",
+        "end": "2024-11-17"
+      },
+      "status": "ended",
+      "collaboration": [
+        "G-STAR 2024"
+      ]
+    },
+    {
+      "id": "ilfe_petit_5",
+      "name": "일러스타 쁘띠 5회",
+      "shortName": "ILFE Petit 5",
+      "type": "illustarfes",
+      "category": "petit",
+      "episode": 5,
+      "city": "판교",
+      "venue": "판교역 일대",
+      "dates": {
+        "start": "2025-09-19",
+        "end": "2025-09-20"
+      },
+      "status": "ended",
+      "collaboration": [
+        "G-STAR 2025"
+      ]
+    },
+    {
+      "id": "ilfe_petit_6",
+      "name": "일러스타 쁘띠 6회",
+      "shortName": "ILFE Petit 6",
+      "type": "illustarfes",
+      "category": "petit",
+      "episode": 6,
+      "city": "순천",
+      "venue": "순천 오천그린광장 일대",
+      "dates": {
+        "start": "2025-10-17",
+        "end": "2025-10-19"
+      },
+      "status": "ended"
+    }
+  ]
+}

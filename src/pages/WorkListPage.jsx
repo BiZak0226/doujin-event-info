@@ -1,13 +1,13 @@
 import PageHeader from '../components/common/PageHeader'
 
-export default function MainPage() {
+export default function WorkListPage() {
   return (
     <div>
       <PageHeader
-        title="동인 행사 정보"
-        description="국내 동인 행사 일정과 부스 정보를 한눈에 확인하세요."
+        title="작품 목록"
+        description="부스에 등록된 작품 및 장르 목록입니다. 가나다순으로 정렬됩니다."
       />
-      {/* TODO: 이번 달 행사 목록 또는 가까운 행사 3개 */}
+      {/* TODO: 작품 목록, 매체별 필터 */}
       <p style={{ color: 'var(--color-text-muted)', fontSize: 'var(--text-sm)' }}>
         준비 중입니다.
       </p>

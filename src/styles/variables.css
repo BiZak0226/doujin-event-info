@@ -1,0 +1,96 @@
+:root {
+  /* ── 색상 ── */
+  --color-bg:          #f5f3ee;
+  --color-bg-elevated: #ffffff;
+  --color-bg-subtle:   #eceae4;
+  --color-border:      #d8d4cb;
+  --color-border-strong: #b8b3a8;
+
+  --color-text-primary:   #1c1a17;
+  --color-text-secondary: #5c5750;
+  --color-text-muted:     #9c9589;
+
+  /* 액센트 — 딥 인디고 */
+  --color-accent:         #3d3580;
+  --color-accent-hover:   #2e2862;
+  --color-accent-subtle:  #eeedf8;
+  --color-accent-text:    #3d3580;
+
+  /* 상태 색상 */
+  --color-upcoming:  #2563a8;
+  --color-upcoming-bg: #eff4fb;
+  --color-ended:     #6b7280;
+  --color-ended-bg:  #f3f4f6;
+  --color-ongoing:   #16803c;
+  --color-ongoing-bg: #f0fdf4;
+
+  /* 행사 타입 색상 */
+  --color-cw:    #c84b1a;   /* 코믹월드 — 웜 레드 */
+  --color-ilfe:  #7c3aed;   /* 일러스타 — 퍼플 */
+  --color-comi:  #0e7490;   /* 코미버스 — 틸 */
+
+  /* ── 타이포그래피 ── */
+  --font-sans:    'Pretendard Variable', 'Pretendard', -apple-system, sans-serif;
+  --font-mono:    'JetBrains Mono', 'Fira Code', monospace;
+
+  --text-xs:   0.75rem;
+  --text-sm:   0.875rem;
+  --text-base: 1rem;
+  --text-lg:   1.125rem;
+  --text-xl:   1.25rem;
+  --text-2xl:  1.5rem;
+  --text-3xl:  1.875rem;
+
+  --weight-regular: 400;
+  --weight-medium:  500;
+  --weight-semibold: 600;
+
+  /* ── 간격 ── */
+  --space-1:  0.25rem;
+  --space-2:  0.5rem;
+  --space-3:  0.75rem;
+  --space-4:  1rem;
+  --space-5:  1.25rem;
+  --space-6:  1.5rem;
+  --space-8:  2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+
+  /* ── 레이아웃 ── */
+  --sidebar-width: 220px;
+  --radius-sm:  4px;
+  --radius-md:  8px;
+  --radius-lg:  12px;
+  --radius-xl:  16px;
+
+  /* ── 그림자 ── */
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.08), 0 2px 4px rgba(0,0,0,0.04);
+
+  /* ── 트랜지션 ── */
+  --transition: 150ms ease;
+}
+
+/* 다크모드 — 추후 확장용 */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg:          #16140f;
+    --color-bg-elevated: #1e1c17;
+    --color-bg-subtle:   #252219;
+    --color-border:      #35312a;
+    --color-border-strong: #4a4540;
+
+    --color-text-primary:   #f0ece3;
+    --color-text-secondary: #a8a098;
+    --color-text-muted:     #6e6860;
+
+    --color-accent:        #7b73d0;
+    --color-accent-hover:  #9590dc;
+    --color-accent-subtle: #1e1c30;
+    --color-accent-text:   #9590dc;
+
+    --color-upcoming-bg: #0f1e35;
+    --color-ended-bg:    #1a1a1e;
+    --color-ongoing-bg:  #0d1f14;
+  }
+}

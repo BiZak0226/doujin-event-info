@@ -1,13 +1,13 @@
 import PageHeader from '../components/common/PageHeader'
 
-export default function MainPage() {
+export default function ContributorsPage() {
   return (
     <div>
       <PageHeader
-        title="동인 행사 정보"
-        description="국내 동인 행사 일정과 부스 정보를 한눈에 확인하세요."
+        title="기여자"
+        description="이 사이트를 만들고 데이터를 기여해주신 분들입니다."
       />
-      {/* TODO: 이번 달 행사 목록 또는 가까운 행사 3개 */}
+      {/* TODO: 개발자 및 기여자 카드 */}
       <p style={{ color: 'var(--color-text-muted)', fontSize: 'var(--text-sm)' }}>
         준비 중입니다.
       </p>

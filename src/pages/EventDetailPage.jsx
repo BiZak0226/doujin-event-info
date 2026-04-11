@@ -39,8 +39,8 @@ function LinkItem({ href, label, icon: Icon }) {
 function resolveLink(key, url) {
   const map = {
     homepage:  { label: '공식 홈페이지', icon: Globe },
-    twitter:   { label: 'Twitter / X',  icon: Twitter },
-    twitter_:  { label: 'Twitter / X (공식 2)', icon: Twitter },
+    twitter:   { label: 'Twitter / X',  icon: X },
+    twitter_:  { label: 'Twitter / X (공식 2)', icon: X },
     'blue sky': { label: 'Bluesky',     icon: Globe },
     bluesky:   { label: 'Bluesky',      icon: Globe },
     gall:      { label: 'DC 갤러리',    icon: Hash },

@@ -1,0 +1,192 @@
+.wrap {
+  background: var(--color-bg-elevated);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+}
+
+/* 헤더 */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-4) var(--space-5);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.monthLabel {
+  font-size: var(--text-lg);
+  font-weight: var(--weight-semibold);
+  color: var(--color-text-primary);
+  letter-spacing: -0.02em;
+}
+
+.navBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  background: var(--color-bg-elevated);
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.navBtn:hover {
+  border-color: var(--color-border-strong);
+  color: var(--color-text-primary);
+}
+
+/* 요일 헤더 */
+.dowRow {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.dowCell {
+  padding: var(--space-2) 0;
+  text-align: center;
+  font-size: var(--text-xs);
+  font-weight: var(--weight-semibold);
+  color: var(--color-text-muted);
+}
+
+.dowCell.sun { color: #dc2626; }
+.dowCell.sat { color: #2563a8; }
+
+/* 날짜 그리드 */
+.grid {
+  display: flex;
+  flex-direction: column;
+}
+
+.week {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.week:last-child {
+  border-bottom: none;
+}
+
+.cell {
+  min-height: 88px;
+  padding: var(--space-2);
+  border-right: 1px solid var(--color-border);
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  transition: background var(--transition);
+}
+
+.cell:last-child {
+  border-right: none;
+}
+
+.cell:hover {
+  background: var(--color-bg-subtle);
+}
+
+.cellOther {
+  background: var(--color-bg-subtle);
+  opacity: 0.5;
+}
+
+.cellToday {
+  background: var(--color-accent-subtle);
+}
+
+/* 날짜 숫자 */
+.dateNum {
+  font-size: var(--text-xs);
+  font-weight: var(--weight-medium);
+  color: var(--color-text-secondary);
+  width: 22px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  flex-shrink: 0;
+  align-self: flex-start;
+}
+
+.dateNum.sun { color: #dc2626; }
+.dateNum.sat { color: #2563a8; }
+
+.todayNum {
+  background: var(--color-accent);
+  color: #fff !important;
+  font-weight: var(--weight-semibold);
+}
+
+/* 행사 필 */
+.pillList {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  overflow: hidden;
+}
+
+.pill {
+  width: 100%;
+  padding: 2px var(--space-2);
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: var(--weight-semibold);
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+  background: var(--pill-bg);
+  color: var(--pill-color);
+  border: none;
+  transition: opacity var(--transition);
+  line-height: 1.4;
+}
+
+.pill:hover {
+  opacity: 0.8;
+}
+
+.moreCount {
+  font-size: 10px;
+  color: var(--color-text-muted);
+  padding: 0 var(--space-2);
+}
+
+/* 빈 메시지 */
+.emptyMsg {
+  text-align: center;
+  padding: var(--space-4);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  border-top: 1px solid var(--color-border);
+}
+
+/* 반응형 */
+@media (max-width: 640px) {
+  .cell {
+    min-height: 60px;
+    padding: var(--space-1);
+  }
+
+  .pill {
+    display: none;
+  }
+
+  .pillList::before {
+    content: attr(data-count);
+  }
+
+  .cell:has(.pill) .dateNum {
+    background: var(--color-accent-subtle);
+    color: var(--color-accent-text);
+  }
+}

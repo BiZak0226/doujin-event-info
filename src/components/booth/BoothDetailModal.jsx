@@ -1,4 +1,4 @@
-import { X, ExternalLink, CreditCard, Twitter, Globe, Users, Hash } from 'lucide-react'
+import { X, ExternalLink, CreditCard, Globe, Users, Hash } from 'lucide-react'
 import styles from './BoothDetailModal.module.css'
 
 const SPEC_COLOR = {
@@ -13,7 +13,7 @@ const SPEC_COLOR = {
 const LINK_META = {
   payment:   { label: '사전 주문 / 결제',  icon: CreditCard },
   official:  { label: '공식 페이지',        icon: Globe },
-  twitter:   { label: 'Twitter / X',        icon: Twitter },
+  twitter:   { label: 'Twitter / X',        icon: X },
   community: { label: '커뮤니티',           icon: Users },
   other:     { label: '링크',               icon: ExternalLink },
 }

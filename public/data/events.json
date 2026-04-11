@@ -31,7 +31,7 @@
   "events": [
     {
       "id": "cw_331",
-      "name": "코믹월드 331회 부산",
+      "name": "코믹월드 331 부산",
       "shortName": "CW331 부산",
       "type": "comicworld",
       "episode": 331,
@@ -44,7 +44,8 @@
       "status": "ended",
       "links": {
         "boothData": "data/booths.json"
-      }
+      },
+      "category": null
     },
     {
       "id": "cw_322",

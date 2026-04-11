@@ -1,7 +1,7 @@
 import { useParams, useNavigate, Link } from 'react-router-dom'
 import {
   ArrowLeft, CalendarDays, MapPin, Store,
-  ExternalLink, Globe, Twitter, Hash,
+  ExternalLink, Globe, X, Hash,
 } from 'lucide-react'
 import dayjs from 'dayjs'
 import 'dayjs/locale/ko'

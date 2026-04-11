@@ -1,11 +1,11 @@
-import { Twitter, Instagram, Youtube, Globe, ExternalLink } from 'lucide-react'
+import { X, Globe } from 'lucide-react'
 import styles from './ArtistCard.module.css'
 
 const PLATFORM_ICON = {
-  twitter:   { icon: Twitter,      label: 'X',         color: '#1a1a1a' },
-  instagram: { icon: Instagram,    label: 'Instagram',  color: '#e1306c' },
+  twitter:   { icon: X,      label: 'X',         color: '#1a1a1a' },
+  // instagram: { icon: Instagram,    label: 'Instagram',  color: '#e1306c' },
   pixiv:     { icon: Globe,        label: 'Pixiv',      color: '#0096fa' },
-  youtube:   { icon: Youtube,      label: 'YouTube',    color: '#ff0000' },
+  // youtube:   { icon: Youtube,      label: 'YouTube',    color: '#ff0000' },
   bluesky:   { icon: Globe,        label: 'Bluesky',    color: '#0085ff' },
 }
 

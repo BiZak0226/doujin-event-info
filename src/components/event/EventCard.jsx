@@ -31,6 +31,11 @@ export default function EventCard({ event, eventType }) {
     <article
       className={`${styles.card} ${isEnded ? styles.ended : ''}`}
       style={{ '--type-color': typeColor, '--type-bg': typeBgColor }}
+      onClick={() => navigate(`/events/${id}`)}
+      role="button"
+      tabIndex={0}
+      onKeyDown={(e) => e.key === 'Enter' && navigate(`/events/${id}`)}
+      aria-label={`${name} 상세 보기`}
     >
       {/* 타입 스트라이프 */}
       <div className={styles.stripe} />

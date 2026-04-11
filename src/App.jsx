@@ -3,12 +3,15 @@ import Layout from './components/layout/Layout'
 
 import MainPage         from './pages/MainPage'
 import EventListPage    from './pages/EventListPage'
+import EventDetailPage  from './pages/EventDetailPage'
 import BoothListPage    from './pages/BoothListPage'
 import ArtistListPage   from './pages/ArtistListPage'
 import WorkListPage     from './pages/WorkListPage'
 import CalendarPage     from './pages/CalendarPage'
 import StatsPage        from './pages/StatsPage'
 import ContributorsPage from './pages/ContributorsPage'
+import DataImportPage   from './pages/DataImportPage'
+import EventAdminPage   from './pages/EventAdminPage'
 import NotFoundPage     from './pages/NotFoundPage'
 
 export default function App() {
@@ -18,6 +21,7 @@ export default function App() {
         <Routes>
           <Route path="/"             element={<MainPage />} />
           <Route path="/events"       element={<EventListPage />} />
+          <Route path="/events/:eventId" element={<EventDetailPage />} />
           <Route path="/booths"       element={<BoothListPage />} />
           <Route path="/booths/:eventId" element={<BoothListPage />} />
           <Route path="/artists"      element={<ArtistListPage />} />
@@ -25,7 +29,9 @@ export default function App() {
           <Route path="/calendar"     element={<CalendarPage />} />
           <Route path="/stats"        element={<StatsPage />} />
           <Route path="/contributors" element={<ContributorsPage />} />
-          <Route path="*"             element={<NotFoundPage />} />
+          <Route path="/data-import"    element={<DataImportPage />} />
+          <Route path="/admin/events"   element={<EventAdminPage />} />
+          <Route path="*"               element={<NotFoundPage />} />
         </Routes>
       </Layout>
     </BrowserRouter>

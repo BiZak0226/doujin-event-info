@@ -24,23 +24,32 @@ export function formatDateRange(start, end) {
 }
 
 /**
- * 행사까지 남은 일수 텍스트
- * 진행 중이면 "진행 중"
- * 오늘 시작이면 "오늘 시작"
- * 미래면 "D-n"
- * 과거면 null
+ * 날짜 기반 행사 상태 계산 (status 필드 불필요)
+ * @returns {'upcoming' | 'ongoing' | 'ended'}
  */
-export function getDDay(startStr, endStr) {
+export function getEventStatus(startStr, endStr) {
   const today = dayjs().startOf('day')
   const start = dayjs(startStr)
   const end   = dayjs(endStr)
 
-  if (today.isAfter(end)) return null
-  if (today.isBefore(start)) {
-    const diff = start.diff(today, 'day')
-    return diff === 0 ? '오늘 시작' : `D-${diff}`
-  }
-  return '진행 중'
+  if (today.isAfter(end))          return 'ended'
+  if (today.isBefore(start))       return 'upcoming'
+  return 'ongoing'
+}
+
+/**
+ * 행사까지 남은 일수 텍스트
+ * 진행 중이면 "진행 중"
+ * 미래면 "D-n" (당일은 "D-0")
+ * 과거면 null
+ */
+export function getDDay(startStr, endStr) {
+  const status = getEventStatus(startStr, endStr)
+  if (status === 'ended')   return null
+  if (status === 'ongoing') return '진행 중'
+
+  const diff = dayjs(startStr).diff(dayjs().startOf('day'), 'day')
+  return diff === 0 ? 'D-0' : `D-${diff}`
 }
 
 /**

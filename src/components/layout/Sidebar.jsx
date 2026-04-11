@@ -6,10 +6,10 @@ import {
   Users,
   BookOpen,
   BarChart2,
-  Map,
   Heart,
   ChevronDown,
-  Menu,
+  Upload,
+  Settings,
   X,
 } from 'lucide-react'
 import { useState } from 'react'
@@ -50,6 +50,14 @@ const NAV = [
     to: '/contributors',
     icon: Heart,
     label: '기여자',
+  },
+  {
+    type: 'group',
+    label: '관리',
+    children: [
+      { to: '/admin/events', icon: Settings, label: '행사 관리' },
+      { to: '/data-import',  icon: Upload,   label: '데이터 입력' },
+    ],
   },
 ]
 

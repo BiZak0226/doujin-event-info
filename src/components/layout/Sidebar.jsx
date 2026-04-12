@@ -157,7 +157,7 @@ export default function Sidebar({ mobileOpen, onClose }) {
 
         {/* 하단 */}
         <div className={styles.footer}>
-          <p className={styles.footerText}>동인 행사 정보 v0.1</p>
+          <p className={styles.footerText}>동인 행사 정보 v0.2</p>
         </div>
       </aside>
     </>

@@ -40,7 +40,7 @@ export default function BoothListPage() {
   const [tagOpen,     setTagOpen]     = useState(false)
   const [selected,    setSelected]    = useState(null)
 
-  const { filtered, specs, days, topTags } = useFilteredBooths(booths, {
+  const { filtered, specs, singleDays, topTags } = useFilteredBooths(booths, {
     query, filterSpec, filterDay, filterTag,
   })
 
@@ -48,6 +48,7 @@ export default function BoothListPage() {
     setQuery(''); setFilterSpec('all'); setFilterDay('all'); setFilterTag('')
   }, [])
 
+  // 초기화 버튼은 항상 표시하므로 hasFilter는 강조 표시 여부에만 사용
   const hasFilter = query || filterSpec !== 'all' || filterDay !== 'all' || filterTag
 
   // 현재 행사 정보
@@ -176,24 +177,34 @@ export default function BoothListPage() {
           ))}
         </select>
 
-        {/* 요일 필터 */}
-        <select
-          className={styles.select}
-          value={filterDay}
-          onChange={(e) => setFilterDay(e.target.value)}
-          aria-label="요일 필터"
-        >
-          {days.map((d) => (
-            <option key={d} value={d}>{d === 'all' ? '전체 요일' : `${d}요일`}</option>
-          ))}
-        </select>
-
-        {/* 필터 초기화 */}
-        {hasFilter && (
-          <button className={styles.resetBtn} onClick={resetFilters}>
-            <X size={13} /> 초기화
-          </button>
+        {/* 요일 필터 — 데이터에서 단독 참가 요일 동적 추출 */}
+        {singleDays.length > 0 && (
+          <div className={styles.dayFilter} role="group" aria-label="요일 필터">
+            <button
+              className={`${styles.dayBtn} ${filterDay === 'all' ? styles.dayBtnActive : ''}`}
+              onClick={() => setFilterDay('all')}
+            >
+              전체
+            </button>
+            {singleDays.map((day) => (
+              <button
+                key={day}
+                className={`${styles.dayBtn} ${filterDay === day ? styles.dayBtnActive : ''}`}
+                onClick={() => setFilterDay(day)}
+              >
+                {day}
+              </button>
+            ))}
+          </div>
         )}
+
+        {/* 초기화 버튼 — 항상 표시, 필터 적용 중일 때 강조 */}
+        <button
+          className={`${styles.resetBtn} ${hasFilter ? styles.resetBtnActive : ''}`}
+          onClick={resetFilters}
+        >
+          <X size={13} /> 초기화
+        </button>
       </div>
 
       {/* 태그 필터 (상위 태그) */}

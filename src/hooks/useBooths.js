@@ -32,6 +32,11 @@ export function useBooths(eventId) {
  * 부스 목록 필터링 + 검색 훅
  * @param {object[]} booths
  * @param {object}   options
+ *
+ * filterDay 값:
+ *   'all'     — 전체 (필터 없음)
+ *   '토'|'일' 등 — 해당 요일만 참가하는 부스 (days가 정확히 그 요일 하나뿐)
+ *   부스 데이터에서 등장하는 단일 요일을 동적으로 추출해 버튼 생성
  */
 export function useFilteredBooths(booths, options = {}) {
   const {
@@ -61,9 +66,9 @@ export function useFilteredBooths(booths, options = {}) {
       list = list.filter((b) => b.spec === filterSpec)
     }
 
-    // 요일 필터
+    // 요일 필터 — 해당 요일만 단독 참가하는 부스
     if (filterDay !== 'all') {
-      list = list.filter((b) => b.days.includes(filterDay))
+      list = list.filter((b) => b.days.length === 1 && b.days[0] === filterDay)
     }
 
     // 태그 필터 (정확히 포함)
@@ -80,10 +85,17 @@ export function useFilteredBooths(booths, options = {}) {
     [booths]
   )
 
-  const days = useMemo(
-    () => ['all', ...Array.from(new Set(booths.flatMap((b) => b.days))).sort()],
-    [booths]
-  )
+  // 단일 요일로만 참가하는 부스에서 등장하는 요일 목록 (버튼 동적 생성용)
+  // 요일 순서: 월화수목금토일 기준 정렬
+  const DOW_ORDER = ['월', '화', '수', '목', '금', '토', '일']
+  const singleDays = useMemo(() => {
+    const set = new Set(
+      booths
+        .filter((b) => b.days.length === 1)
+        .map((b) => b.days[0])
+    )
+    return DOW_ORDER.filter((d) => set.has(d))
+  }, [booths])
 
   // 태그 빈도순 정렬 (상위 30개)
   const topTags = useMemo(() => {
@@ -95,5 +107,5 @@ export function useFilteredBooths(booths, options = {}) {
       .map(([tag]) => tag)
   }, [booths])
 
-  return { filtered, specs, days, topTags }
+  return { filtered, specs, singleDays, topTags }
 }

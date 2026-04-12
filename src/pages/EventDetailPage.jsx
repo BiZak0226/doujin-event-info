@@ -1,7 +1,7 @@
 import { useParams, useNavigate, Link } from 'react-router-dom'
 import {
   ArrowLeft, CalendarDays, MapPin, Store,
-  ExternalLink, Globe, X, Hash,
+  ExternalLink, Globe, Hash,
 } from 'lucide-react'
 import dayjs from 'dayjs'
 import 'dayjs/locale/ko'
@@ -14,13 +14,14 @@ import {
   getCategoryLabel,
   getEventStatus,
 } from '../utils/eventUtils'
+import BrandIcon from '../components/common/BrandIcon'
 import EmptyState from '../components/common/EmptyState'
 import styles from './EventDetailPage.module.css'
 
 dayjs.locale('ko')
 
 /* 링크 타입별 아이콘 + 라벨 */
-function LinkItem({ href, label, icon: Icon }) {
+function LinkItem({ href, label, brand, icon: Icon }) {
   return (
     <a
       href={href}
@@ -28,7 +29,10 @@ function LinkItem({ href, label, icon: Icon }) {
       rel="noopener noreferrer"
       className={styles.linkItem}
     >
-      <Icon size={15} strokeWidth={1.75} />
+      {brand
+        ? <BrandIcon platform={brand} size={15} color="currentColor" />
+        : <Icon size={15} strokeWidth={1.75} />
+      }
       <span>{label}</span>
       <ExternalLink size={12} className={styles.linkExtIcon} />
     </a>
@@ -38,12 +42,12 @@ function LinkItem({ href, label, icon: Icon }) {
 /* eventType.links 키 → 라벨 + 아이콘 매핑 */
 function resolveLink(key, url) {
   const map = {
-    homepage:  { label: '공식 홈페이지', icon: Globe },
-    twitter:   { label: 'Twitter / X',  icon: X },
-    twitter_:  { label: 'Twitter / X (공식 2)', icon: X },
-    'blue sky': { label: 'Bluesky',     icon: Globe },
-    bluesky:   { label: 'Bluesky',      icon: Globe },
-    gall:      { label: 'DC 갤러리',    icon: Hash },
+    homepage:   { label: '공식 홈페이지',         icon: Globe },
+    twitter:    { label: 'Twitter / X',            brand: 'twitter' },
+    twitter_:   { label: 'Twitter / X (공식 2)',   brand: 'twitter' },
+    'blue sky': { label: 'Bluesky',                brand: 'bluesky' },
+    bluesky:    { label: 'Bluesky',                brand: 'bluesky' },
+    gall:       { label: 'DC 갤러리',              icon: Hash },
   }
   const meta = map[key] ?? { label: key, icon: Globe }
   return { ...meta, url }
@@ -279,8 +283,8 @@ export default function EventDetailPage() {
             <div className={styles.sideCard}>
               <h3 className={styles.sideCardTitle}>공식 링크</h3>
               <div className={styles.linkList}>
-                {typeLinks.map(({ label, icon, url }) => (
-                  <LinkItem key={label} href={url} label={label} icon={icon} />
+                {typeLinks.map(({ label, icon, brand, url }) => (
+                  <LinkItem key={label} href={url} label={label} icon={icon} brand={brand} />
                 ))}
               </div>
             </div>

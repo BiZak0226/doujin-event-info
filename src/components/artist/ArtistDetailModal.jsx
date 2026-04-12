@@ -1,23 +1,11 @@
-import { X, Globe, ExternalLink, Store } from 'lucide-react'
+import { X, ExternalLink, Store } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
+import BrandIcon, { getBrandColor, getBrandLabel } from '../common/BrandIcon'
 import styles from './ArtistDetailModal.module.css'
 
-const PLATFORM_META = {
-  twitter:   { label: 'Twitter / X',  icon: X,   color: '#1a1a1a', bgColor: '#f0f0f0' },
-  // instagram: { label: 'Instagram',    icon: Instagram,  color: '#fff',    bgColor: '#e1306c' },
-  pixiv:     { label: 'Pixiv',        icon: Globe,      color: '#fff',    bgColor: '#0096fa' },
-  // youtube:   { label: 'YouTube',      icon: Youtube,    color: '#fff',    bgColor: '#ff0000' },
-  bluesky:   { label: 'Bluesky',      icon: Globe,      color: '#fff',    bgColor: '#0085ff' },
-}
-
 function LinkTreeItem({ platform, url }) {
-  const meta = PLATFORM_META[platform] ?? {
-    label: platform,
-    icon: Globe,
-    color: 'var(--color-text-primary)',
-    bgColor: 'var(--color-bg-subtle)',
-  }
-  const Icon = meta.icon
+  const label   = getBrandLabel(platform)
+  const bgColor = getBrandColor(platform)
 
   return (
     <a
@@ -28,11 +16,11 @@ function LinkTreeItem({ platform, url }) {
     >
       <span
         className={styles.linkIcon}
-        style={{ background: meta.bgColor, color: meta.color }}
+        style={{ background: bgColor, color: '#fff' }}
       >
-        <Icon size={16} strokeWidth={1.75} />
+        <BrandIcon platform={platform} size={16} color="#fff" />
       </span>
-      <span className={styles.linkLabel}>{meta.label}</span>
+      <span className={styles.linkLabel}>{label}</span>
       <ExternalLink size={13} className={styles.linkExtIcon} />
     </a>
   )

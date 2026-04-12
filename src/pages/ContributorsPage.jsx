@@ -1,4 +1,5 @@
-import { X, Globe, Mail, Heart } from 'lucide-react'
+import { Globe, Mail, Heart } from 'lucide-react'
+import BrandIcon, { getBrandLabel } from '../components/common/BrandIcon'
 import PageHeader from '../components/common/PageHeader'
 import styles from './ContributorsPage.module.css'
 
@@ -26,10 +27,10 @@ const CONTRIBUTORS = [
   // { id: '', nickname: '', role: '데이터 수집', links: { twitter: '' } },
 ]
 
-const LINK_META = {
-  twitter: { icon: X, label: 'Twitter / X' },
-  website: { icon: Globe,   label: '웹사이트' },
-  email:   { icon: Mail,    label: '이메일', isEmail: true },
+// email·website은 BrandIcon이 없으므로 별도 처리
+const NON_BRAND_LINKS = {
+  website: { icon: Globe, label: '웹사이트',  isEmail: false },
+  email:   { icon: Mail,  label: '이메일',    isEmail: true },
 }
 
 function PersonCard({ person }) {
@@ -61,19 +62,23 @@ function PersonCard({ person }) {
         {activeLinks.length > 0 && (
           <div className={styles.personLinks}>
             {activeLinks.map(([platform, value]) => {
-              const meta = LINK_META[platform] ?? { icon: Globe, label: platform }
-              const Icon = meta.icon
-              const href = meta.isEmail ? `mailto:${value}` : value
+              const nonBrand = NON_BRAND_LINKS[platform]
+              const href  = nonBrand?.isEmail ? `mailto:${value}` : value
+              const label = nonBrand?.label ?? getBrandLabel(platform)
+              const Icon  = nonBrand?.icon
               return (
                 <a
                   key={platform}
                   href={href}
-                  target={meta.isEmail ? undefined : '_blank'}
+                  target={nonBrand?.isEmail ? undefined : '_blank'}
                   rel="noopener noreferrer"
                   className={styles.personLink}
-                  title={meta.label}
+                  title={label}
                 >
-                  <Icon size={15} strokeWidth={1.75} />
+                  {nonBrand
+                    ? <Icon size={15} strokeWidth={1.75} />
+                    : <BrandIcon platform={platform} size={15} color="currentColor" />
+                  }
                 </a>
               )
             })}

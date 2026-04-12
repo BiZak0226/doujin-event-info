@@ -1,12 +1,13 @@
 import { useState, useEffect } from 'react'
-import { Plus, Trash2, Globe, X, Hash, Cloud } from 'lucide-react'
+import { Plus, Trash2, Globe, Hash } from 'lucide-react'
+import BrandIcon from '../common/BrandIcon'
 import styles from './EventForm.module.css'
 
 const LINK_TYPES = [
-  { key: 'homepage', label: '공식 홈페이지', icon: Globe,   placeholder: 'https://...' },
-  { key: 'twitter',  label: 'Twitter / X',  icon: X, placeholder: 'https://x.com/...' },
-  { key: 'bluesky',  label: 'Bluesky',      icon: Cloud,   placeholder: 'https://bsky.app/...' },
-  { key: 'gall',     label: 'DC 갤러리',    icon: Hash,    placeholder: 'https://gall.dcinside.com/...' },
+  { key: 'homepage', label: '공식 홈페이지', renderIcon: () => <Globe size={14} strokeWidth={1.75} />,             placeholder: 'https://...' },
+  { key: 'twitter',  label: 'Twitter / X',  renderIcon: () => <BrandIcon platform="twitter"  size={14} color="currentColor" />, placeholder: 'https://x.com/...' },
+  { key: 'bluesky',  label: 'Bluesky',      renderIcon: () => <BrandIcon platform="bluesky"  size={14} color="currentColor" />, placeholder: 'https://bsky.app/...' },
+  { key: 'gall',     label: 'DC 갤러리',    renderIcon: () => <Hash size={14} strokeWidth={1.75} />,               placeholder: 'https://gall.dcinside.com/...' },
 ]
 
 const EMPTY = {
@@ -138,9 +139,9 @@ export default function EventTypeForm({ initial, existingKeys = [], onSubmit, on
         <div className={styles.field}>
           <label className={styles.label}>공식 링크</label>
           <div className={styles.linkGroup}>
-            {LINK_TYPES.map(({ key, label, icon: Icon, placeholder }) => (
+            {LINK_TYPES.map(({ key, label, renderIcon, placeholder }) => (
               <div key={key} className={styles.linkRow}>
-                <span className={styles.linkIcon}><Icon size={14} strokeWidth={1.75} /></span>
+                <span className={styles.linkIcon}>{renderIcon()}</span>
                 <span className={styles.linkLabel}>{label}</span>
                 <input
                   className={styles.linkInput}

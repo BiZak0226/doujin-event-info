@@ -1,4 +1,5 @@
 import { X, ExternalLink, CreditCard, Globe, Users, Hash } from 'lucide-react'
+import BrandIcon from '../common/BrandIcon'
 import styles from './BoothDetailModal.module.css'
 
 const SPEC_COLOR = {
@@ -11,17 +12,17 @@ const SPEC_COLOR = {
 }
 
 const LINK_META = {
-  payment:   { label: '사전 주문 / 결제',  icon: CreditCard },
-  official:  { label: '공식 페이지',        icon: Globe },
-  twitter:   { label: 'Twitter / X',        icon: X },
-  community: { label: '커뮤니티',           icon: Users },
-  other:     { label: '링크',               icon: ExternalLink },
+  payment:   { label: '사전 주문 / 결제',  icon: CreditCard,  isBrand: false },
+  official:  { label: '공식 페이지',        icon: Globe,       isBrand: false },
+  twitter:   { label: 'Twitter / X',        brand: 'twitter',  isBrand: true  },
+  community: { label: '커뮤니티',           icon: Users,       isBrand: false },
+  other:     { label: '링크',               icon: ExternalLink, isBrand: false },
 }
 
 function LinkButton({ link }) {
-  const meta = LINK_META[link.type] ?? LINK_META.other
-  const Icon = meta.icon
+  const meta  = LINK_META[link.type] ?? LINK_META.other
   const label = link.label?.trim() || meta.label
+  const Icon  = meta.icon  // JSX 렌더링을 위해 대문자 변수에 할당
 
   return (
     <a
@@ -31,7 +32,10 @@ function LinkButton({ link }) {
       className={styles.linkBtn}
       data-type={link.type}
     >
-      <Icon size={14} strokeWidth={1.75} />
+      {meta.isBrand
+        ? <BrandIcon platform={meta.brand} size={14} color="currentColor" />
+        : <Icon size={14} strokeWidth={1.75} />
+      }
       <span>{label}</span>
       <ExternalLink size={11} className={styles.extIcon} />
     </a>

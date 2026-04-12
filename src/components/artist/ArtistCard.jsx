@@ -1,27 +1,19 @@
-import { X, Globe } from 'lucide-react'
+import { Globe } from 'lucide-react'
+import BrandIcon, { getBrandLabel, getBrandColor } from '../common/BrandIcon'
 import styles from './ArtistCard.module.css'
 
-const PLATFORM_ICON = {
-  twitter:   { icon: X,      label: 'X',         color: '#1a1a1a' },
-  // instagram: { icon: Instagram,    label: 'Instagram',  color: '#e1306c' },
-  pixiv:     { icon: Globe,        label: 'Pixiv',      color: '#0096fa' },
-  // youtube:   { icon: Youtube,      label: 'YouTube',    color: '#ff0000' },
-  bluesky:   { icon: Globe,        label: 'Bluesky',    color: '#0085ff' },
-}
-
 function PlatformDot({ platform, url }) {
-  const meta = PLATFORM_ICON[platform] ?? { icon: Globe, label: platform, color: 'var(--color-text-muted)' }
-  const Icon = meta.icon
+  const label = getBrandLabel(platform)
   return (
     <a
       href={url}
       target="_blank"
       rel="noopener noreferrer"
       className={styles.platformDot}
-      title={meta.label}
+      title={label}
       onClick={(e) => e.stopPropagation()}
     >
-      <Icon size={14} strokeWidth={1.75} />
+      <BrandIcon platform={platform} size={14} color="currentColor" />
     </a>
   )
 }

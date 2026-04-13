@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-14",
+  "lastUpdate": "2026-04-14 02:22:20",
   "list": [
     {
       "id": "cw-09",
@@ -17,7 +17,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_UuU_zzZ17"
+        }
+      ],
       "tags": [
         "앙상블스타즈"
       ]
@@ -36,9 +41,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3552982461_07HVegZM_276c33c2742fd98123ef9f39621a83455c8dc1e3.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/low0916"
+        }
+      ],
       "tags": [
         "건담",
         "다키스트던전",
@@ -66,7 +76,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/oca_oca_"
+        }
+      ],
       "tags": [
         "단다단",
         "던전밥",
@@ -120,7 +135,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Luna__Bloom"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -142,7 +162,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/studiodan.a"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -164,7 +189,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/illustratorAGRT"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "원신",
@@ -187,7 +217,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kiring_xox"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/kiring_xox"
+        }
+      ],
       "tags": [
         "체인소맨"
       ]
@@ -207,9 +246,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/238025650_zrdt86Js_c6b17445aeb0c5f4c418585904d509ca4a2996e4.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/two_seol"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "데뷔못하면죽는병걸림",
@@ -237,7 +281,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/mima_rako"
+        }
+      ],
       "tags": []
     },
     {
@@ -256,7 +305,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ganbaree_3"
+        }
+      ],
       "tags": [
         "트릭컬리바이브"
       ]
@@ -275,9 +329,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/990564235_Y1qIkzO7_fbf6ef8a17f1cd8bd2a2c983d4c6f7485708bb0c.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/neon3d_"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/neon_3d"
+        }
+      ],
       "tags": [
         "오리지널"
       ]
@@ -296,9 +359,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/32472732_arpLJMeI_1a6d5886d84c27e11318b69e444cb4e2c35b5c96.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ssackssack01"
+        }
+      ],
       "tags": [
         "트릭컬리바이브"
       ]
@@ -319,7 +387,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Lanubiscuit"
+        }
+      ],
       "tags": [
         "귀멸의칼날",
         "블루아카이브",
@@ -365,7 +438,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/tatadi_tajo"
+        }
+      ],
       "tags": [
         "나루토",
         "데뷔못하면죽는병걸림",
@@ -436,7 +514,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/www.instagram.com/pueo_pages"
+        }
+      ],
       "tags": [
         "스파이패밀리"
       ]
@@ -460,7 +543,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/miratsu169"
+        }
+      ],
       "tags": [
         "음성합성엔진"
       ]
@@ -479,7 +567,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2083777394_2NQfItVm_f9fe7eb3738cf5e4381feadfc04f066ae4ae4945.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -502,9 +590,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1954390038_cCTLPWsZ_2701a894d10c2a0868b85d03cd5585938af60a38.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/E_MOoOG"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "붕괴스타레일",
@@ -528,7 +621,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/red_fox0226"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/redfox42/"
+        }
+      ],
       "tags": [
         "니케",
         "리그오브레전드",
@@ -553,7 +655,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/rosh_251"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "살육의천사"
@@ -575,7 +682,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/jambutter789/"
+        }
+      ],
       "tags": [
         "전시장르-기타"
       ]
@@ -597,7 +709,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/miirotcha"
+        }
+      ],
       "tags": [
         "오아시스",
         "페이트스트레인지페이크"
@@ -619,7 +736,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ANNS2_S2"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -638,9 +760,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1925744339_eSgHyJGF_3584325132315463f21af994a56c976f8d31592e.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/t_eruen"
+        }
+      ],
       "tags": [
         "오리지널"
       ]
@@ -661,7 +788,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/wandu_mook"
+        }
+      ],
       "tags": [
         "보컬로이드"
       ]
@@ -680,9 +812,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/978220573_mMX8POV4_5a080809bb7aedb999353adfe277d470ad8d9bc4.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_haru_illust"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -704,7 +841,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/naramiyaya"
+        }
+      ],
       "tags": [
         "보이스로이드",
         "보컬로이드"
@@ -725,9 +867,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2948622348_s7pERLCI_56363aade6cbde6cbdb1ae8de3cf0fe575811d9a.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://thewonart.artstation.com/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/hithewonart"
+        }
+      ],
       "tags": [
         "야인시대"
       ]
@@ -749,7 +900,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/magmodo"
+        }
+      ],
       "tags": [
         "니케"
       ]
@@ -769,9 +925,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2038554047_UxFGDgtK_3eecf7a09d2610b067623e397ebc45d825bfe9a2.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/AliceFlag"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/alice_flag/"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -792,7 +957,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/C_rrat"
+        }
+      ],
       "tags": [
         "스텔라이브",
         "헥시아"
@@ -813,9 +983,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3740253692_SJrpdYBg_145169a6355ec6a66d199c2383aa3c6981d3b22c.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ygintam"
+        }
+      ],
       "tags": [
         "귀멸의칼날",
         "나의히어로아카데미아",
@@ -840,9 +1015,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/988582694_FNoGJ6C9_695146a51aa33f58ea913385680619b7ea65c86e.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kumi86kumi"
+        }
+      ],
       "tags": [
         "니케"
       ]
@@ -862,7 +1042,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2943995994_TBDmC6nA_167d9c90465c7efa58a6b4b98508645129cc9e4c.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -885,9 +1065,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2009438130_NwQZPdXo_daeeada324a3291fe172d9bd7493963d66c3760b.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/playback240"
+        }
+      ],
       "tags": [
         "노게임노라이프",
         "소드아트온라인"
@@ -909,7 +1094,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/akiya_kun"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -930,7 +1120,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/munji1001"
+        }
+      ],
       "tags": [
         "리레볼루션",
         "보컬로이드",
@@ -955,7 +1150,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_GELulu"
+        }
+      ],
       "tags": [
         "늑대와향신료",
         "니디걸오버도즈",
@@ -988,7 +1188,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Enamel_meii"
+        }
+      ],
       "tags": [
         "동방프로젝트"
       ]
@@ -1035,7 +1240,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/dreamdistrict"
+        }
+      ],
       "tags": [
         "동방프로젝트"
       ]
@@ -1056,7 +1266,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/supyun.daily"
+        }
+      ],
       "tags": [
         "명일방주",
         "스텔라소라",
@@ -1081,7 +1296,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/JUNKMAN96759882"
+        }
+      ],
       "tags": [
         "건담"
       ]
@@ -1102,7 +1322,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Raco_20"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/raco_20y"
+        }
+      ],
       "tags": [
         "보컬로이드"
       ]
@@ -1121,9 +1350,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/238243849_MpOUokg5_a6b6230d64e67b3c1570cb2ab64d676808fc24f2.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/nirheart_k/"
+        }
+      ],
       "tags": [
         "GrokAni",
         "마법소녀를동경해서",
@@ -1147,7 +1381,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/xseomin"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "하츠네미쿠"
@@ -1168,9 +1407,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/31711205_MnbKPgaI_559cc93d2b2ce4a4ff1248b966ce49ea15d6977f.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/x.com/teamfiverings"
+        }
+      ],
       "tags": [
         "니디걸오버도즈",
         "보컬로이드",
@@ -1194,7 +1438,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/bada_beom"
+        }
+      ],
       "tags": [
         "포켓몬스터"
       ]
@@ -1216,7 +1465,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/ramniverse"
+        }
+      ],
       "tags": [
         "포켓몬스터"
       ]
@@ -1235,9 +1489,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2077731460_felaoC9j_040e6c5e2281e89904ba379f916c2883c36396f1.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sing_nu"
+        }
+      ],
       "tags": [
         "명탐정코난"
       ]
@@ -1258,7 +1517,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Oyol55"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "에일리언스테이지",
@@ -1282,7 +1546,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/skudd367"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -1303,7 +1572,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/hyogo_6o6"
+        }
+      ],
       "tags": [
         "아이엠스타",
         "앙상블스타즈",
@@ -1345,9 +1619,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1954439973_CmHA9ksX_68c5cb207de63ffe645e2e1fb77d71ac17097491.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/O_08758"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "원신",
@@ -1371,7 +1650,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/danillust_"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/dan.illust_"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "리그오브레전드",
@@ -1395,7 +1683,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Nouni_BS"
+        }
+      ],
       "tags": [
         "걸판",
         "니케",
@@ -1420,7 +1713,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/WE_5104"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/we__5104"
+        }
+      ],
       "tags": [
         "디씨코믹스",
         "마블"
@@ -1443,7 +1745,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ci_cll"
+        }
+      ],
       "tags": [
         "가공낙원",
         "리레볼루션",
@@ -1514,7 +1821,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/neon_pastell"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/neon.pastell"
+        }
+      ],
       "tags": [
         "캐릭캐릭체인지"
       ]
@@ -1536,7 +1852,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sarissa_art00136"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/sarissa_art00136"
+        }
+      ],
       "tags": [
         "체인소맨"
       ]
@@ -1557,7 +1882,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_KIMI_J"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/kamikimi_j"
+        }
+      ],
       "tags": [
         "장송의프리렌",
         "창작"
@@ -1579,7 +1913,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/leedada_eun"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "데뷔못하면죽는병걸림",
@@ -1606,9 +1945,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3024262467_NrTz6dBE_8cb86e3608d424b385cad13f48fa00b01586c707.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Apple_A_Caramel"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -1630,7 +1974,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/yume_614"
+        }
+      ],
       "tags": [
         "미쿠",
         "트릭컬리바이브"
@@ -1652,7 +2001,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/getty_gy"
+        }
+      ],
       "tags": [
         "리버스1999",
         "붕괴스타레일",
@@ -1676,7 +2030,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/bb79836"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "하츠네미쿠"
@@ -1699,7 +2058,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ConTanuki"
+        }
+      ],
       "tags": [
         "버츄얼"
       ]
@@ -1721,7 +2085,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/nanaluv0516"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "스텔라이브",
@@ -1744,9 +2113,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2036726534_gSifY6BN_1e8d95a78ddacc680d9b105fe8c38b38f9bc5c0c.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/xhahdi"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/xhahdi"
+        }
+      ],
       "tags": [
         "동방프로젝트",
         "보컬로이드"
@@ -1768,7 +2146,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ptdd00"
+        }
+      ],
       "tags": [
         "헌드레드라인최종방위학원"
       ]
@@ -1789,7 +2172,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/BW_1010"
+        }
+      ],
       "tags": [
         "리버스1999"
       ]
@@ -1809,9 +2197,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2108913566_ByJnzxt0_a6a73a66bdbdf4e117434a1c7ce9106806f14863.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Beliatan_"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "스텔라이브",
@@ -1835,7 +2228,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/없음."
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/없음."
+        }
+      ],
       "tags": [
         "귀멸의칼날"
       ]
@@ -1857,7 +2259,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sonaqueen9029"
+        }
+      ],
       "tags": [
         "붕괴스타레일"
       ]
@@ -1879,7 +2286,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/stellantis_comic"
+        }
+      ],
       "tags": [
         "니케",
         "블루아카이브"
@@ -1901,7 +2313,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/guyooku"
+        }
+      ],
       "tags": [
         "귀멸의칼날",
         "그비스크돌은사랑을한다",
@@ -1941,9 +2358,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/235246040_N2y4uVEG_9161639731ef693f8aa7d7b3d3cee022d8edab10.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Deneb_BG"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/actmelody"
+        }
+      ],
       "tags": [
         "명조",
         "타몬군은지금어느쪽?!",
@@ -1967,7 +2393,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kyundoo"
+        }
+      ],
       "tags": [
         "니케",
         "명조",
@@ -1993,7 +2424,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/BOMBOM_asa"
+        }
+      ],
       "tags": [
         "가비지타임",
         "에일리언스테이지",
@@ -2019,7 +2455,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/incmmhs"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "포켓몬스터",
@@ -2044,7 +2485,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/rungzee105"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/rungzee105"
+        }
+      ],
       "tags": [
         "가정교사히트맨리본",
         "괴담에떨어져도출근을해야하는구나"
@@ -2067,7 +2517,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/mipp_uu"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -2089,7 +2544,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/rue_l_duck"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/wishu_store"
+        }
+      ],
       "tags": [
         "가쿠마스",
         "괴담에떨어져도출근을해야하는구나",
@@ -2122,9 +2586,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2108822799_ph6mQatO_1c261804fc188880a1de8bfe01512d8408811889.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kang_art_070"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -2166,7 +2635,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2041186185_MZ4yfVN3_6a370fe52c846a012d88216f63c23eae77f103c6.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -2225,7 +2694,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Chel_4016"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/chel.416"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "블루아카이브",
@@ -2248,9 +2726,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2009852546_gwXvEZdC_b405372edae93fe58dfb758ff8a125472763a245.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/lubyaalnst"
+        }
+      ],
       "tags": [
         "에일리언스테이지"
       ]
@@ -2298,7 +2781,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kong2279"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근은해야하는구나",
         "보컬로이드"
@@ -2318,9 +2806,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2009208671_V7xbSEuI_768356697c0c7b54af265d4b0f40ffc0ae7c8a8b.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/wynndeck_blue"
+        }
+      ],
       "tags": [
         "벽람항로"
       ]
@@ -2341,7 +2834,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/SE_1S3V"
+        }
+      ],
       "tags": [
         "이터널리턴"
       ]
@@ -2361,7 +2859,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3555378674_TIybx1hm_f76c7fb5cbdc4d5490dc1a6e20c6c6d0031f1ac9.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -2436,9 +2934,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1028334907_PT49BucX_ce3b186052084446e7b387fec5f198dca6cdbffb.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/DBSG_66"
+        }
+      ],
       "tags": [
         "사이버펑크엣지러너",
         "콩코드",
@@ -2462,7 +2965,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/MH_MUHAN"
+        }
+      ],
       "tags": [
         "보컬로이드"
       ]
@@ -2484,7 +2992,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ttosin2"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/x"
+        }
+      ],
       "tags": [
         "라오루",
         "로보토미"
@@ -2506,7 +3023,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/xlfkaltb01"
+        }
+      ],
       "tags": [
         "디제이맥스플라티나랩하츠네미쿠"
       ]
@@ -2528,7 +3050,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/dbdna00"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/arthall_st08"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "귀멸의칼날",
@@ -2563,9 +3094,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2049573060_kNSi6WY2_69a7b82a1f1938c0542a6a38cc722fe376f9a34c.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/LiqLunacy"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -2584,9 +3120,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/235340270_gVwrHNP1_58f314712816257bdc1bd0c7a94becd4fd83cfba.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Moka Chino"
+        }
+      ],
       "tags": [
         "버츄얼"
       ]
@@ -2607,7 +3148,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/thatl2"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/x"
+        }
+      ],
       "tags": [
         "니지산지",
         "리레볼루션",
@@ -2632,7 +3182,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/579KsSodtRE7gKU"
+        }
+      ],
       "tags": [
         "달빛천사",
         "슈가슈가룬",
@@ -2656,7 +3211,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1995129287_kgQvRfHL_d359bcf3b04733480a26c12d1c63dfb960ea67bb.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -2692,7 +3247,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/inininoooooo"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "스타레일",
@@ -2717,7 +3277,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/mill_artworks"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/mill_artworks"
+        }
+      ],
       "tags": [
         "던전밥"
       ]
@@ -2739,7 +3308,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/shunivallentine"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -2760,7 +3334,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/yeonilabs"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/yeoni_labs"
+        }
+      ],
       "tags": [
         "귀멸의칼날",
         "원피스",
@@ -2782,9 +3365,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2849249720_SrKJxQY7_cca303db61c7db43f6b6d7566cd26bd50aed9b14.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/tofu_pntn"
+        }
+      ],
       "tags": [
         "원신"
       ]
@@ -2806,7 +3394,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/tofu_pntn"
+        }
+      ],
       "tags": [
         "원신"
       ]
@@ -2828,7 +3421,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/gam_kkyul"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "블루아카이브",
@@ -2853,7 +3451,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_standupp__"
+        }
+      ],
       "tags": [
         "미츄",
         "스텔라이브"
@@ -2875,7 +3478,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kimbaewang"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/kembetwa"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "하츠네미쿠"
@@ -2895,9 +3507,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1995131586_fICVoiTL_e2e04d3b083efaa1ccb3d1cc6dd532a286a91360.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/callus.jewelry.club"
+        }
+      ],
       "tags": [
         "나나",
         "허니와클로버"
@@ -2920,7 +3537,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/blen_studio_"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/blen_studio_"
+        }
+      ],
       "tags": [
         "던전밥",
         "록맨",
@@ -2947,7 +3573,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sssit4425"
+        }
+      ],
       "tags": [
         "로보토미코퍼레이션"
       ]
@@ -2969,7 +3600,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/JUNAnim"
+        }
+      ],
       "tags": [
         "붕괴스타레일"
       ]
@@ -2988,9 +3624,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2108856877_GX8UPwCe_54b5b9ebe4d80873571a9f5461e9a2a1e5689671.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/ha9hagu"
+        }
+      ],
       "tags": [
         "주술회전"
       ]
@@ -3037,7 +3678,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/양파랑"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/osc396"
+        }
+      ],
       "tags": [
         "장송의프리렌"
       ]
@@ -3081,7 +3731,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sakurard"
+        }
+      ],
       "tags": [
         "명조",
         "버츄얼",
@@ -3105,9 +3760,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3698887529_i90UeYaB_a9e5598066eb195f306790f259b7d13f4b9228e2.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/gomgome0526"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/gomgome0526"
+        }
+      ],
       "tags": [
         "창작"
       ]
@@ -3129,7 +3793,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/cjdcjd717"
+        }
+      ],
       "tags": [
         "원신",
         "프로세카"
@@ -3151,7 +3820,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/cheeeese_cat"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "귀멸의칼날"
@@ -3174,7 +3848,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_arukids"
+        }
+      ],
       "tags": [
         "내가키운S급들",
         "모브사이코100",
@@ -3200,9 +3879,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3667510365_quiYeDNT_805e65a52c5488384d8388ef2b97ce3f4bd42cf7.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/yycckk33"
+        }
+      ],
       "tags": [
         "네가죽어",
         "단간론파",
@@ -3237,9 +3921,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3696101151_kSQCGHWg_bfea06fcd55469b49ae6535d224a9286fe69e0b3.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/senada37_art"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "유희왕",
@@ -3264,7 +3953,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ramnim_p"
+        }
+      ],
       "tags": [
         "앙상블스타즈"
       ]
@@ -3283,9 +3977,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2040924249_ow3zm9PB_204670baa0dcd8e8acd7c7cb580064f7450215c6.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/marant38"
+        }
+      ],
       "tags": []
     },
     {
@@ -3302,9 +4001,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1889556702_dRcxhC4n_033f038be4f5e661a7a0236c54943591ffe4b16f.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ran2764"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/skrud1747"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "블루아카이브",
@@ -3331,7 +4039,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/genti4747"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/argenti00"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "이누야샤",
@@ -3356,7 +4073,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/saza6927"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -3376,9 +4098,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1954227017_F407hYEl_43ad19942763c9bd5bb7de23a53ae40eb9c28ed0.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/dessertcandyy"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "데뷔못하면죽는병걸림",
@@ -3400,9 +4127,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/661882472_gl9iep5k_dba52e66a8c14481589f05a07ed2aa7e2d518b59.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_deeyan__"
+        }
+      ],
       "tags": [
         "니지산지"
       ]
@@ -3423,7 +4155,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/sojjyo_"
+        }
+      ],
       "tags": [
         "1차창작물"
       ]
@@ -3445,7 +4182,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/rayca01"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "데뷔못하면죽는병걸림"
@@ -3466,9 +4208,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1948951873_wlcIy6eF_e8e064b121f57d202352d44ed3ab254e480009ef.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/PPyok_1017"
+        }
+      ],
       "tags": [
         "원신"
       ]
@@ -3490,7 +4237,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/boseukkamgo"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "데뷔못하면죽는병걸림",
@@ -3511,9 +4263,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2108964956_NhoWSZvr_a5276fab605423d9a161bb7b024f4e0d976af471.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/rittoring"
+        }
+      ],
       "tags": [
         "원신"
       ]
@@ -3535,7 +4292,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/dubdaeb"
+        }
+      ],
       "tags": [
         "발로란트",
         "보컬로이드",
@@ -3559,7 +4321,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Dessertparty0_0"
+        }
+      ],
       "tags": [
         "원신",
         "젠레스존제로",
@@ -3583,7 +4350,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/watasi_tokimi"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "젠레스존제로"
@@ -3605,7 +4377,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Charlot0158"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "죠죠의기묘한모험"
@@ -3625,9 +4402,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1954492333_seyT86Xu_50acb958542c58e5db03d15836ac2eaf9a069fc5.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/UulMax"
+        }
+      ],
       "tags": [
         "초가구야공주"
       ]
@@ -3649,7 +4431,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/komae_ki"
+        }
+      ],
       "tags": [
         "동방프로젝트",
         "또봇",
@@ -3682,9 +4469,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/990271563_qtg0hzs2_746bc0a058fde8733b9a6b9e39ed9126690995e4.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/RmenSSARI"
+        }
+      ],
       "tags": [
         "라이브러리오브루이나",
         "림버스컴퍼니"
@@ -3706,7 +4498,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/0o0_OoOfu"
+        }
+      ],
       "tags": [
         "홀로라이브"
       ]
@@ -3727,7 +4524,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/yami56_u"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/yami56_u"
+        }
+      ],
       "tags": [
         "명조"
       ]
@@ -3775,7 +4581,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/apie_pie_i3"
+        }
+      ],
       "tags": [
         "말랑이온라인",
         "오브젝트쇼",
@@ -3800,9 +4611,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3667631350_LxwctYPU_3dfc8766e59f49b006f6058bc6fd5732b03ffe08.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/YR_simin"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "앙상블스타즈",
@@ -3826,7 +4642,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/1owo_owo1"
+        }
+      ],
       "tags": [
         "붕괴스타레일"
       ]
@@ -3845,9 +4666,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2038960958_jqnEV839_a9fea4c3cf95553cf917e929fb8a9afd89cb269e.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/_croak45"
+        }
+      ],
       "tags": [
         "1차창작",
         "의원다시살다",
@@ -3872,7 +4698,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/dami_7680"
+        }
+      ],
       "tags": [
         "기타"
       ]
@@ -3893,7 +4724,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/charm2222sul"
+        }
+      ],
       "tags": [
         "붕괴:스타레일",
         "원신",
@@ -3902,7 +4738,7 @@
     },
     {
       "id": "bn-06",
-      "name": " 메이드 데이트 중",
+      "name": "메이드 데이트 중",
       "numbers": [
         "BN_06"
       ],
@@ -3916,7 +4752,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/bomrung__"
+        }
+      ],
       "tags": [
         "니케",
         "블루아카이브"
@@ -3939,7 +4780,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/MUCHI_muchi555"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/x"
+        }
+      ],
       "tags": [
         "체인소맨"
       ]
@@ -3960,7 +4810,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/dokori765"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/dokori765"
+        }
+      ],
       "tags": [
         "전시장르-기타"
       ]
@@ -3982,7 +4841,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/yosisiki"
+        }
+      ],
       "tags": [
         "나혼자만레벨업",
         "내가키운S급들",
@@ -4011,7 +4875,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kotohanabi"
+        }
+      ],
       "tags": [
         "데뷔못하면죽는병걸림"
       ]
@@ -4052,9 +4921,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3032315362_pGDTNPRt_50d60b73b3f3972e7e3084143dfcc672ad4d9f43.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/thfktlfh456"
+        }
+      ],
       "tags": [
         ".",
         "블루아카이브"
@@ -4128,7 +5002,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Rib_gb"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/Rib_gb"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -4147,7 +5030,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/33313311_1Y34k7C2_902c2ef34d0784178fe639a204a3b463c8ffe474.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -4218,7 +5101,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/G_Ya_170"
+        }
+      ],
       "tags": [
         "원신"
       ]
@@ -4239,7 +5127,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/doramdarom"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/doramdarom"
+        }
+      ],
       "tags": [
         "스플래툰",
         "앙상블스타즈",
@@ -4260,9 +5157,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/831399876_yMHrwxEL_a0c3d55e628995d650846c584a2557f231a0adad.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/HOHOuxu"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "원신",
@@ -4286,7 +5188,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/owo_kamiiiii"
+        }
+      ],
       "tags": [
         "트릭컬리바이브"
       ]
@@ -4306,9 +5213,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3067469103_8wJM6PnK_260009d348996c5a3baac91638ecbb290df8e265.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/OperaVulcani"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "원신"
@@ -4331,7 +5243,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/iiqoco"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/iiqoco_"
+        }
+      ],
       "tags": [
         "창작"
       ]
@@ -4353,7 +5274,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Yuel_1011"
+        }
+      ],
       "tags": []
     },
     {
@@ -4373,7 +5299,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/mms_gb"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/없읍"
+        }
+      ],
       "tags": [
         "명일방주",
         "블루아카이브",
@@ -4397,7 +5332,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hayanpool"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/hayanpool"
+        }
+      ],
       "tags": [
         "원신"
       ]
@@ -4419,7 +5363,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/minttomintto"
+        }
+      ],
       "tags": [
         "리제로",
         "쿠키런킹덤",
@@ -4442,7 +5391,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/goodbam63"
+        }
+      ],
       "tags": [
         "플레이브"
       ]
@@ -4461,9 +5415,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3660855531_ubiPMjk3_d693a8e78c4f8684715e3701c2e55a2b99062ce7.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hapong07"
+        }
+      ],
       "tags": [
         "명조"
       ]
@@ -4484,7 +5443,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sinohara_hiyo"
+        }
+      ],
       "tags": [
         "블루록",
         "스타레일",
@@ -4508,7 +5472,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/parkhongma"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/parkhongma"
+        }
+      ],
       "tags": [
         "젠레스존제로"
       ]
@@ -4530,7 +5503,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/exxovery"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/exxovery"
+        }
+      ],
       "tags": [
         "가히리",
         "괴담에떨어져도출근을해야하는구나",
@@ -4557,7 +5539,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/chiasmata_0"
+        }
+      ],
       "tags": [
         "라이브러리오브루이나",
         "로보토미코퍼레이션"
@@ -4580,7 +5567,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/MacBuki"
+        }
+      ],
       "tags": [
         "창작"
       ]
@@ -4602,7 +5594,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/gonstool"
+        }
+      ],
       "tags": [
         "라스트오리진"
       ]
@@ -4624,7 +5621,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/____nagoo"
+        }
+      ],
       "tags": [
         "이터널리턴"
       ]
@@ -4646,7 +5648,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ws_tune"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "전지적독자시점",
@@ -4670,7 +5677,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hakosan999"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -4691,7 +5703,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/audino_tabunne"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/Nothing_But_Audino"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "스텔라이브",
@@ -4715,7 +5736,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/gyeou_lee"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/gyeou_lee"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -4737,7 +5767,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/pmoonsaranghae"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -4757,9 +5792,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/990923447_YQCf1bi8_329f27d7c41b999cf5d83ce3870218b98d3b78e5.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Idola0408"
+        }
+      ],
       "tags": [
         "트릭컬리바이브"
       ]
@@ -4780,7 +5820,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/pretty__period"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/pretty__period"
+        }
+      ],
       "tags": [
         "젠레스존제로"
       ]
@@ -4801,7 +5850,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/espitzofficial"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/espitzofficial"
+        }
+      ],
       "tags": [
         "동방프로젝트",
         "블루아카이브"
@@ -4821,9 +5879,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2040600294_YAo2lrs7_7d547a06993866d80439453070c6c396f1d86a2a.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/MAGO_Dream"
+        }
+      ],
       "tags": [
         "유희왕"
       ]
@@ -4844,7 +5907,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_cloud_seol"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/nyong_x"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "원신"
@@ -4867,7 +5939,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/eternal_0520"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -4908,7 +5985,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/deokoOoOoseong"
+        }
+      ],
       "tags": [
         "나루토",
         "마블",
@@ -4939,9 +6021,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3556329320_vMd56inu_ca5993dc306e7f7e656fdb706d97ee5c8cc4e3ef.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/chroma_corp"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "창작"
@@ -4962,9 +6049,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1981817446_nKFRBHGt_9dad7c8b81d20b0218d6c33daef47834ec72019d.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/yoonhasom"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/yoonhasom"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "블루아카이브",
@@ -4989,7 +6085,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/akgi_store"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/akgi_store"
+        }
+      ],
       "tags": [
         "걸즈밴드크라이",
         "뱅드림",
@@ -5019,7 +6124,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/rainy_day2003"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/grimngoods"
+        }
+      ],
       "tags": [
         "고양이",
         "나메코",
@@ -5044,7 +6158,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Nio_BD"
+        }
+      ],
       "tags": [
         "밀키서브웨이",
         "스타레일",
@@ -5068,7 +6187,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/MiYAKE_igd"
+        }
+      ],
       "tags": [
         "헤븐번즈레드"
       ]
@@ -5089,7 +6213,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/r4fheath"
+        }
+      ],
       "tags": [
         "마법소녀의마녀재판"
       ]
@@ -5108,9 +6237,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1785021748_EswurFUi_9c0098da4acac53f392e18af223ebfd47f1d880b.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Bin_ze__"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/x"
+        }
+      ],
       "tags": [
         "포켓몬스터"
       ]
@@ -5131,7 +6269,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_re_ring"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "블루아카이브",
@@ -5158,7 +6301,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/obm0124"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/oneone_insta/?hl=ko"
+        }
+      ],
       "tags": [
         "니케",
         "체인소맨",
@@ -5182,7 +6334,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kuca_cm"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "스텔라이브"
@@ -5205,7 +6362,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sooouo1"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -5226,7 +6388,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/revolution0517s"
+        }
+      ],
       "tags": [
         "괴담출근",
         "리버스1999",
@@ -5250,7 +6417,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/pinch_nes"
+        }
+      ],
       "tags": [
         "라이브러리오브루이나",
         "이터널리턴"
@@ -5273,7 +6445,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/GR5KRYoQVXOkg5Q"
+        }
+      ],
       "tags": [
         "명일방주엔드필드",
         "트릭컬"
@@ -5295,7 +6472,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hb_rosemary"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "프로젝트세카이"
@@ -5339,7 +6521,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/cloverplant_kr"
+        }
+      ],
       "tags": [
         "니케"
       ]
@@ -5361,7 +6548,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/otamaker_kr"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/x"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -5381,9 +6577,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1893338100_c4wYdb6E_e7e77425fc84c3481b96067fe74e0fa3184e9461.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ppudang00"
+        }
+      ],
       "tags": [
         "니케",
         "보컬로이드",
@@ -5408,7 +6609,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Eseoa00"
+        }
+      ],
       "tags": [
         "프로젝트세카이"
       ]
@@ -5430,7 +6636,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ArkMetropolis77"
+        }
+      ],
       "tags": [
         "니케"
       ]
@@ -5505,7 +6716,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/h_ae_rang"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "프로젝트세카이"
@@ -5525,9 +6741,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/982370128_Xy1uEtYj_f5e1d1c9ec2fe9fe9d099a140e5bf168dec914c5.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/lkg1oOovcl"
+        }
+      ],
       "tags": [
         "하츠네미쿠"
       ]
@@ -5549,7 +6770,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sssmki"
+        }
+      ],
       "tags": [
         "가면라이더",
         "러브앤딥스페이스",
@@ -5575,7 +6801,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/SD_TRIT"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/SD_TRIT"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -5596,7 +6831,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/mnrabbit1109"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "젠레스존제로"
@@ -5619,7 +6859,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/TrivialDragon"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -5661,7 +6906,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/goranears"
+        }
+      ],
       "tags": [
         "트릭컬리바이브"
       ]
@@ -5683,7 +6933,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ika8203"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/ika_artistagram"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -5704,7 +6963,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/cats_mandoo"
+        }
+      ],
       "tags": [
         "로블록스"
       ]
@@ -5726,7 +6990,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Iorite_ART"
+        }
+      ],
       "tags": [
         "VRCHAT",
         "보컬로이드",
@@ -5748,7 +7017,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3555412470_zCdKBcEH_225db95978bb0a50ea8448469a2f96aa2f06a88b.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -5799,9 +7068,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3716988337_QFkibup9_04a1ab1df06d8f00cb4265f9615c11b34c493920.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/jojogwang"
+        }
+      ],
       "tags": [
         "명일방주",
         "소녀전선",
@@ -5843,9 +7117,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3743896257_4TV7CS2g_bd2bf4576cfc411bbf233ce184bd92205f8b6f04.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kitcat_u"
+        }
+      ],
       "tags": [
         "코노스바"
       ]
@@ -5867,7 +7146,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/nannung_mdr"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "스텔라이브"
@@ -5887,9 +7171,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2948780200_YRaFHOT8_340676362718b1b17c49b35f791ae52cab4ff5d9.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ssongsu010"
+        }
+      ],
       "tags": [
         "니지산지",
         "스파이패밀리",
@@ -5917,7 +7206,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Ati_Blue_?t=UYaymxMaw7M18MkP1M509A&s=09"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "스타레일"
@@ -5940,7 +7234,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/gmlwls2612"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "니케",
@@ -5951,7 +7250,7 @@
     },
     {
       "id": "ck-09",
-      "name": "지느러미 잡탕 ",
+      "name": "지느러미 잡탕",
       "numbers": [
         "CK_09"
       ],
@@ -5965,7 +7264,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/happybemmy"
+        }
+      ],
       "tags": [
         "젠존제"
       ]
@@ -6008,7 +7312,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/nagakiras2"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -6029,7 +7338,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/030_bv"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/030_pv"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -6051,7 +7369,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Wadada @iseungc66164646"
+        }
+      ],
       "tags": [
         "가면라이더",
         "건담"
@@ -6073,7 +7396,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/miniya4202x"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -6094,7 +7422,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/bugion__"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/js2_0417"
+        }
+      ],
       "tags": [
         "리그오브레전드",
         "블루아카이브"
@@ -6116,7 +7453,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Making__board"
+        }
+      ],
       "tags": [
         "전지적독자시점"
       ]
@@ -6137,7 +7479,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/onionion0724"
+        }
+      ],
       "tags": [
         "아르케아"
       ]
@@ -6156,9 +7503,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3551561344_AQS67q3g_1c979ee8620d1fb5b1979831d0093405648278a1.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/TTuSee5"
+        }
+      ],
       "tags": [
         "리제로",
         "버츄얼",
@@ -6187,7 +7539,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/shj1998z"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -6207,9 +7564,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1938446260_pY6Mb1Sy_3c651729c0a3076dc293124ea9065460fc4d74e4.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/BS_blac"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -6230,7 +7592,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kanachiaki"
+        }
+      ],
       "tags": [
         "뱅드림",
         "원신",
@@ -6276,7 +7643,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kitami28"
+        }
+      ],
       "tags": [
         "아이실드21",
         "원피스"
@@ -6299,7 +7671,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/anon_ovs"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/anon_ovs"
+        }
+      ],
       "tags": [
         "스텔라이브",
         "앙상블스타즈"
@@ -6342,7 +7723,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/DECORA_S2"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/decora_ra"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "니디걸오버도즈",
@@ -6391,7 +7781,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/P_Lanz_"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -6413,7 +7808,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Touyu_1210"
+        }
+      ],
       "tags": [
         "보컬로이드"
       ]
@@ -6435,7 +7835,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/qnamxoxo"
+        }
+      ],
       "tags": [
         "괴수8호",
         "은혼",
@@ -6482,7 +7887,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kikkuk222"
+        }
+      ],
       "tags": []
     },
     {
@@ -6500,7 +7910,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/nmhmu"
+        }
+      ],
       "tags": [
         "봇치더록"
       ]
@@ -6520,9 +7935,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3529832509_vaJhVbso_0a0479b1b6e3a6363c2c7ba7b57126d9a43c4f5a.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/79JJONG79"
+        }
+      ],
       "tags": [
         "라이브러리오브루이나"
       ]
@@ -6564,7 +7984,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Malmi_jal"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/없음."
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -6604,7 +8033,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/illust_sucong"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -6623,9 +8057,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3034869349_toKujXAZ_ef29c3b2100667e771c3cadd67c60f6058c02d48.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Niae_T"
+        }
+      ],
       "tags": [
         "버츄얼"
       ]
@@ -6646,7 +8085,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/3pring_fac"
+        }
+      ],
       "tags": [
         "가면라이더"
       ]
@@ -6690,7 +8134,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/_116room"
+        }
+      ],
       "tags": [
         "핸드메이드"
       ]
@@ -6709,9 +8158,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3555000084_P7BtzbJE_191c88aa49872a7836e2f3f100d18febddb8a73e.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/VRC_Ukia"
+        }
+      ],
       "tags": [
         "명일방주엔드필드",
         "블루아카이브",
@@ -6734,7 +8188,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Recma5"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/cma.day"
+        }
+      ],
       "tags": [
         "걸즈밴드크라이",
         "뱅드림",
@@ -6757,7 +8220,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/homemade_6"
+        }
+      ],
       "tags": [
         "윈드브레이커",
         "프로젝트세카이"
@@ -6780,7 +8248,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/nyangpangju9"
+        }
+      ],
       "tags": [
         "기타"
       ]
@@ -6802,7 +8275,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/zizi_wing"
+        }
+      ],
       "tags": [
         "롤등",
         "붕괴스타레일"
@@ -6825,7 +8303,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hamifr_art"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/bowow_meow"
+        }
+      ],
       "tags": [
         "강아지",
         "고양이",
@@ -6848,9 +8335,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/32078460_sENVpWl3_4f2d17b7a1d1f48cbc7bcc740ca6c0750dcae80d.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/rollingbocchii"
+        }
+      ],
       "tags": [
         "봇치더록"
       ]
@@ -6872,7 +8364,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/smkt_tsnc"
+        }
+      ],
       "tags": [
         "봇치더록",
         "블루아카이브"
@@ -6913,9 +8410,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2042363386_P9rvjtqU_a41ed8b9f54caef2edb3545d16bddad3b519fed1.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/MTS098_"
+        }
+      ],
       "tags": [
         "라이브러리오브루이나",
         "림버스컴퍼니"
@@ -6957,9 +8459,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3551375868_JKEXsk2v_55dcb6a242d49777d543325384c01026ed358096.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/yeongpluma"
+        }
+      ],
       "tags": [
         "명일방주",
         "이터널리턴"
@@ -6982,7 +8489,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/keiho_09X"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/090_keiho"
+        }
+      ],
       "tags": [
         "케데헌",
         "해즈빈호텔",
@@ -7003,9 +8519,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2041077486_nOrwX2xA_14f2f4fb29ae7b76304e8053da75c6fe99e8b2e8.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/cookienyamz"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/lissapaint"
+        }
+      ],
       "tags": [
         "델타룬",
         "스티븐유니버스",
@@ -7030,9 +8555,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3544093143_QNsM79qU_cd81fdf63b843f8f523c045c8de4234dda7cc6ba.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/chongcomic86"
+        }
+      ],
       "tags": [
         "니케",
         "리제로",
@@ -7060,7 +8590,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/daj8_b4"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/doj8p4"
+        }
+      ],
       "tags": [
         "걸즈밴드크라이",
         "블루아카이브",
@@ -7084,7 +8623,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/WhatisYisang"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -7104,9 +8648,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2010043328_vLHZet1y_027587c87332451c38c683c6133c7632679a5bc7.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/IncheonDeepOne"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/incheon_deep_one/"
+        }
+      ],
       "tags": [
         "CoC"
       ]
@@ -7128,7 +8681,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/jwjy6k"
+        }
+      ],
       "tags": [
         "귀멸의칼날",
         "보컬로이드",
@@ -7153,7 +8711,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Ha_en__"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -7175,7 +8738,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/chochoske"
+        }
+      ],
       "tags": [
         "스텔라이브",
         "홀로라이브"
@@ -7218,7 +8786,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/bjnb_shin"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -7239,7 +8812,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/4444MR1"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -7260,7 +8838,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/liede_4130"
+        }
+      ],
       "tags": [
         "괴수8호",
         "블루아카이브",
@@ -7284,7 +8867,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/saint_jsi"
+        }
+      ],
       "tags": [
         "버츄얼"
       ]
@@ -7303,9 +8891,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2049776006_yjVuEaki_78f4fb0f8c2ed07b7c50e7f2d8125b2ef557de7d.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/IXPXDI"
+        }
+      ],
       "tags": [
         "로블록스",
         "포세이큰"
@@ -7326,9 +8919,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1938441232_JIpcMeAk_10bcb3d5ba0302177c53ffdd42a7d7485a97617e.jpeg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/nyamnyamstudio"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/nyamnyam_illust"
+        }
+      ],
       "tags": [
         "장송의프리렌",
         "주술회전",
@@ -7373,7 +8975,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/redshark7839"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/redshark7839"
+        }
+      ],
       "tags": [
         "니케",
         "원신"
@@ -7393,9 +9004,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/31743501_Dhn3Ouda_5c2ec32eee2007c138f657cd71ed812c13c4b179.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Fiction_w0"
+        }
+      ],
       "tags": [
         "ENA",
         "ENA:DreamBBQ",
@@ -7424,7 +9040,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hexagon__kimbap"
+        }
+      ],
       "tags": [
         "니지산지",
         "마법소녀의마녀재판",
@@ -7448,7 +9069,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kin_bbum"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -7493,7 +9119,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/byam6yam"
+        }
+      ],
       "tags": [
         "로보토미코퍼레이션"
       ]
@@ -7512,9 +9143,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3547140579_ypRCLuGT_8ea9416e2024cf37e590357fda8f12275144995f.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/mong_geu_jak"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -7535,7 +9171,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/uje_illust"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/."
+        }
+      ],
       "tags": [
         "아이돌마스터",
         "아이돌마스터사이드엠"
@@ -7555,9 +9200,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/990581520_Y8EwHLxo_f15e2e4b8ca26cc3470a218520f79b110133be0b.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/lou1580588"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/sz.lxe"
+        }
+      ],
       "tags": [
         "신의탑",
         "원신",
@@ -7582,7 +9236,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ManwolGoods"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/manwol_gsd"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "데뷔못하면죽는병걸림",
@@ -7612,9 +9275,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1028608205_CwoiUNXy_b24e80ffed4c7716c52ce5584e54d7a34ceecadd.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sehwa_76"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/yehwa_76"
+        }
+      ],
       "tags": [
         "귀멸의칼날",
         "나의히어로아카데미아",
@@ -7672,7 +9344,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/aka09n"
+        }
+      ],
       "tags": [
         "단간론파",
         "또봇",
@@ -7695,9 +9372,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3740094667_wXqAhUaM_3dbcb1f7b3cd313a449cc2316278301339c2b9cf.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/S2ugar_S2"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/S2ugarS2"
+        }
+      ],
       "tags": [
         "던전밥",
         "디지캐럿",
@@ -7726,7 +9412,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hongsuk0"
+        }
+      ],
       "tags": [
         "보컬로이드"
       ]
@@ -7747,7 +9438,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/do__kuku"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "나루토",
@@ -7774,7 +9470,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2049832777_FOzTbMC5_395f2d86eeecdbd4db97a8fafa892ea8d804d56a.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -7810,7 +9506,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/32224371_GBwFQTD9_c60e885207003f313eec125f8613ea31ae32b5fb.png",
       "goods": [],
       "links": [],
       "tags": [
@@ -7859,7 +9555,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/picter12"
+        }
+      ],
       "tags": [
         "스텔라소라",
         "체인소맨",
@@ -7883,7 +9584,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/great_meer"
+        }
+      ],
       "tags": [
         "네가죽어",
         "언더테일",
@@ -7906,7 +9612,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/banbaji5"
+        }
+      ],
       "tags": [
         "나루토",
         "헌터x헌터"
@@ -7927,9 +9638,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2094567968_tq9rAfvH_003847cfb4a7dd135e3d37d910cbed7ebc8b2f44.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Seasalt_Flavour, @hasayart"
+        }
+      ],
       "tags": [
         "단간론파",
         "블루아카이브",
@@ -7953,7 +9669,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/9man90000"
+        }
+      ],
       "tags": [
         "초카구야히메",
         "한국버츄얼",
@@ -7976,7 +9697,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/t_o_Q_t"
+        }
+      ],
       "tags": [
         "버츄얼",
         "젠레스존제로"
@@ -7998,7 +9724,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/nyong553668"
+        }
+      ],
       "tags": [
         "다이오브데스",
         "디지털서커스",
@@ -8025,7 +9756,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/DENNY_EDEN_"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/ww_denn_what_ww"
+        }
+      ],
       "tags": [
         "로블록스"
       ]
@@ -8046,7 +9786,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kyonser"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/pic_rk"
+        }
+      ],
       "tags": []
     },
     {
@@ -8065,7 +9814,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/rnondaybird"
+        }
+      ],
       "tags": [
         "명일방주엔드필드"
       ]
@@ -8086,7 +9840,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/없응"
+        }
+      ],
       "tags": [
         "창작",
         "카사네테토"
@@ -8107,9 +9866,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1891281265_w1PC8xGh_6d230bfe6a15bbb47a0bc05ddea8c5fcaf30373b.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/NRa_3614"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -8151,9 +9915,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3543815623_7PAyZjwf_cfa701832293bb6aa4500fbdf0e95198552989c4.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ungung_cos"
+        }
+      ],
       "tags": [
         "림버스컴퍼니",
         "브라운더스트2"
@@ -8175,7 +9944,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hyeon_0613"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/hyeon_0613"
+        }
+      ],
       "tags": [
         "나루토",
         "던전밥",
@@ -8199,7 +9977,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/papu_ri_ca"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/papu_ri_ca"
+        }
+      ],
       "tags": [
         "리버스1999",
         "명일방주",
@@ -8223,7 +10010,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/neil_limu"
+        }
+      ],
       "tags": [
         "니케",
         "블루아카이브"
@@ -8246,7 +10038,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Gznf1221"
+        }
+      ],
       "tags": [
         "원신"
       ]
@@ -8267,7 +10064,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/AM_0832he"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/5yogalaxy"
+        }
+      ],
       "tags": [
         "에반게리온"
       ]
@@ -8289,7 +10095,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/drawing._.eineblume"
+        }
+      ],
       "tags": [
         "세일러문등",
         "원피스",
@@ -8310,9 +10121,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2084446971_ZNRgf5BM_6de3f4aa5dc6717aac3beaa9313bf61eee2b7aa3.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hanayouko1202"
+        }
+      ],
       "tags": [
         "봇치더록"
       ]
@@ -8333,7 +10149,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/tion4102"
+        }
+      ],
       "tags": [
         "비주얼노벨",
         "우리집반려소녀"
@@ -8377,7 +10198,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ipipi_owo"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -8419,7 +10245,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/discat_2580"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/discatt_2580"
+        }
+      ],
       "tags": [
         "로블록스",
         "헤즈빈호텔"
@@ -8440,9 +10275,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2000878836_Ze7a8SAw_613ed1361e0ccd83adb5ed04bba18fe83aa1f69a.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Sunmoon_shop16"
+        }
+      ],
       "tags": [
         "명조",
         "붕괴스타레일",
@@ -8484,9 +10324,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1891338043_74BU3EVX_2ffd31ff2b24e6148ef9b08d353380f845496297.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Oqawmet"
+        }
+      ],
       "tags": [
         "명일방주",
         "블루아카이브"
@@ -8508,7 +10353,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kdj__00"
+        }
+      ],
       "tags": [
         "붕괴스타레일"
       ]
@@ -8530,7 +10380,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hido_88"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -8552,7 +10407,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Ra_TanG1234"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/lhj060823"
+        }
+      ],
       "tags": [
         "림버스컴퍼니",
         "쿠키런",
@@ -8575,7 +10439,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/yeonchoping"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/x"
+        }
+      ],
       "tags": [
         "마법소녀의마녀재판",
         "모노가타리시리즈",
@@ -8602,7 +10475,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/lojetet"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/mj_lojet"
+        }
+      ],
       "tags": [
         "귀멸의칼날",
         "체인소맨",
@@ -8628,7 +10510,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/PumpkimOfficial"
+        }
+      ],
       "tags": [
         "창작게임"
       ]
@@ -8647,9 +10534,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3731717445_EDoeM63i_7c15257800dcec8ce6e485d3aac1820c836bc2d0.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/harumi_oneday / @one_day_hl"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "프로젝트세카이"
@@ -8671,7 +10563,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/tmen0316"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/tmen0316"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "우마무스메",
@@ -8694,7 +10595,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/201dotori"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "이터널리턴"
@@ -8716,7 +10622,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kkry"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/x"
+        }
+      ],
       "tags": [
         "이터널리턴"
       ]
@@ -8737,7 +10652,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/iteRrYi_93682"
+        }
+      ],
       "tags": [
         "댄디스월드",
         "리그레베이터",
@@ -8761,7 +10681,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/biya1024"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/Biya1024"
+        }
+      ],
       "tags": [
         "기타"
       ]
@@ -8782,7 +10711,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Kungkangman"
+        }
+      ],
       "tags": [
         "소녀전선",
         "유희왕"
@@ -8804,7 +10738,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_zK_2"
+        }
+      ],
       "tags": [
         "명일방주엔드필드"
       ]
@@ -8825,7 +10764,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/beavererer"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "전독시"
@@ -8847,7 +10791,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/siru_ttteok"
+        }
+      ],
       "tags": [
         "명조",
         "블루아카이브"
@@ -8870,7 +10819,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/o0000000000__"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -8891,7 +10845,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/sejong_jakbon"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "나루토",
@@ -8926,7 +10885,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/deca314"
+        }
+      ],
       "tags": []
     },
     {
@@ -8943,9 +10907,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1995115693_A8ruY5Pq_8f1b9cb25b28e5ebbeeeaa32cb53bf97c5214a93.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/jungru1125"
+        }
+      ],
       "tags": [
         "붕괴:스타레일",
         "프로젝트세카이"
@@ -8968,7 +10937,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/chang_100"
+        }
+      ],
       "tags": [
         "더프릭서커스",
         "주술회전"
@@ -8990,7 +10964,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/litmus_music"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/litmus_star"
+        }
+      ],
       "tags": [
         "보컬로이드"
       ]
@@ -9011,7 +10994,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/otakumochan"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/otakumochan"
+        }
+      ],
       "tags": [
         "개구리중사케로로",
         "나루토",
@@ -9035,9 +11027,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/32436748_9mlDyKZB_d1caba11727faac5a846031aa070449c7dad5fea.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/cc2010929"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -9058,7 +11055,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/guay_0504"
+        }
+      ],
       "tags": [
         "원신",
         "케데헌"
@@ -9081,7 +11083,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/mudrchk"
+        }
+      ],
       "tags": [
         "니케",
         "데못죽",
@@ -9106,7 +11113,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/aengdohwa"
+        }
+      ],
       "tags": [
         "명조",
         "붕괴스타레일"
@@ -9147,7 +11159,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3068146274_dsUbceyL_e4f5d7a0647a28e7c298af02a91611168cfca1e9.png",
       "goods": [],
       "links": [],
       "tags": [
@@ -9169,9 +11181,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1028442912_sQfjMSIY_d21d71c5199777ae8e446a0fe0d35db91996df70.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/rPrP_99"
+        }
+      ],
       "tags": [
         "smg4",
         "델타룬",
@@ -9198,9 +11215,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/990595355_hpNXmUvL_e996958deb627dfffe74de001bacd24a10aab623.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/@Moon_hon0923"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/moon_hon0923"
+        }
+      ],
       "tags": [
         "문학",
         "뱅드림",
@@ -9222,7 +11248,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1995129408_o3uyWwt6_c190d203cce5ff37f3fa7edc331ffb565942f8a0.png",
       "goods": [],
       "links": [],
       "tags": [
@@ -9246,9 +11272,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1028690378_mFd230j1_a05cdf88ec5e9d4062d0b57160c9ada5fa7fda7e.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hot_starfish38"
+        }
+      ],
       "tags": [
         "thefreakcircus",
         "그레이스",
@@ -9283,7 +11314,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/gsyang_eo22"
+        }
+      ],
       "tags": [
         "가치아쿠타",
         "외모지상주의",
@@ -9305,9 +11341,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3740174240_L4QRSaC0_22abea0272a4571ea34e9a4a02fc2d05e01fc848.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/OEO07519"
+        }
+      ],
       "tags": [
         "괴담출근",
         "모브사이코",
@@ -9328,7 +11369,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/832696048_bng4lwYU_46485e7b1a67a6a882ca500d01693249ca8c10d0.png",
       "goods": [],
       "links": [],
       "tags": [
@@ -9352,7 +11393,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ppingppung"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/ppingppung"
+        }
+      ],
       "tags": [
         "포켓몬스터"
       ]
@@ -9374,7 +11424,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sina_S2_"
+        }
+      ],
       "tags": [
         "스텔라이브",
         "초가구야공주!",
@@ -9395,9 +11450,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3731671833_obP4NdSj_f1ad5f03fb91893b07775773dc0f81967d35aacd.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/없움"
+        }
+      ],
       "tags": [
         "GASA4",
         "^_^",
@@ -9425,9 +11485,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1948944150_I5pAdOP1_ebcb108b034188a29950f4ea7bca68aac7936a6c.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/mito.ast"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/mito.ast"
+        }
+      ],
       "tags": [
         "포켓몬스터"
       ]
@@ -9446,9 +11515,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3672925640_0mnlHjvW_29fe7177154183229157c51b562ff98bac887227.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/pmlbtmlorlc"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -9469,7 +11543,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/duckduck_king"
+        }
+      ],
       "tags": [
         "2000년대애니전반"
       ]
@@ -9490,7 +11569,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/cookielike21"
+        }
+      ],
       "tags": [
         "데뷔못하면죽는병걸림",
         "리버스1999",
@@ -9512,9 +11596,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2950020433_3Qvj0cmt_1598aa7122f54e8cac676d3f1967e7869c235889.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/247365jojo"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/247365jojo"
+        }
+      ],
       "tags": [
         "가비지타임",
         "니케",
@@ -9538,9 +11631,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/981058928_eGYynJkb_2a474e03859f7af8b3b66cd2663a4ef577bf2bd1.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/yuri_123089"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "여러장르"
@@ -9560,9 +11658,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1995120515_aCG7OuJk_abfd2cdb06ce0439c8a2fa0fd5d8166e383282f7.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_ezylum"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/gr4v1ty_c01l"
+        }
+      ],
       "tags": [
         "로블록스",
         "리그레베이터",
@@ -9584,9 +11691,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3025224344_5LmMU6ji_80c0cdb9352fa8b0d74a4ca47dc0050da3dbf60d.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/tobi_11099"
+        }
+      ],
       "tags": [
         "다이오브데스",
         "로블록스",
@@ -9610,7 +11722,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/_myung_ll"
+        }
+      ],
       "tags": [
         "가비지타임",
         "데뷔못하면죽는병걸림"
@@ -9630,9 +11747,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2039017944_zFpmPNbw_44efe7ba9967c564583e6ff598b9ca9ee210febb.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/musclexm"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -9653,7 +11775,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/y0jang"
+        }
+      ],
       "tags": [
         "디제이맥스",
         "명조",
@@ -9675,9 +11802,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/31857737_Wy5dhUZf_0ce292dea8eaaa11699b01dc733a8ea267290ef2.jpeg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hyunpeach_hb"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/hyunpeach_"
+        }
+      ],
       "tags": [
         "나루토",
         "나의히어로아카데미아",
@@ -9700,9 +11836,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3076725423_86IlBce0_3a8025cac46dca4ca35db739623e1dec1ff36706.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/two2zoo"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/lavnique"
+        }
+      ],
       "tags": [
         "기타"
       ]
@@ -9724,7 +11869,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/DYam36"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/du_uyam/"
+        }
+      ],
       "tags": [
         "림버스컴퍼니",
         "미쿠",
@@ -9747,7 +11901,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/SSONGMANGA"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/SSONGPLANET"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나"
       ]
@@ -9769,7 +11932,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/evernath_yy"
+        }
+      ],
       "tags": [
         "리버스1999"
       ]
@@ -9789,9 +11957,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/31732823_U7mzv6F2_3ffdceb5b6e4a09cf72e88792991e3cd8ca02bab.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/106858_"
+        }
+      ],
       "tags": [
         "오리지널창작",
         "창작"
@@ -9813,7 +11986,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/bbangseogch"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -9832,9 +12010,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/833229738_DfCVeXrR_b14a85a9ded26e94563fa91349d572470f9cbdc7.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Jungwoo37mm"
+        }
+      ],
       "tags": [
         "릭앤모티",
         "발디의수학교실",
@@ -9877,9 +12060,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2950094430_4MdHuS0N_bcc4132ed968227beae450cc0ba9f600c690fcce.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/x"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/x"
+        }
+      ],
       "tags": [
         "붕괴3rd",
         "붕괴스타레일"
@@ -9902,7 +12094,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/w_eye1"
+        }
+      ],
       "tags": [
         "귀멸의칼날",
         "리그오브레전드"
@@ -9924,7 +12121,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Supporter_1506"
+        }
+      ],
       "tags": [
         "좀비고",
         "쿠키런",
@@ -9948,7 +12150,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hwan_001"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "스텔라이브"
@@ -9989,9 +12196,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1994216351_8Yr2KTqd_4c55901b36e62313e3298d4fcac263ea7c072c5f.jpeg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/k_ro0100"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/w_seo0810"
+        }
+      ],
       "tags": [
         "소울이터",
         "은혼"
@@ -10014,7 +12230,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/suki_sulbo"
+        }
+      ],
       "tags": [
         "니지산지"
       ]
@@ -10057,9 +12278,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3547061834_xObqYLvg_1d145c68550a8e7026f1b50552eeb47c6c653c25.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sonwooang"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/sonwooang"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "에이펙스",
@@ -10081,9 +12311,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/661924124_ptjlkUue_5054c88e0770f9324c8cca93ff25190031415401.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Qyuk96"
+        }
+      ],
       "tags": [
         "보컬로이드"
       ]
@@ -10102,9 +12337,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3555547757_Ox3EDHwF_2ce3d8759237051938ae389381cf55af28dd107b.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/polarbear_c_w"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/polarbear_craft_owo"
+        }
+      ],
       "tags": [
         "원신"
       ]
@@ -10124,9 +12368,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3543621871_cg3j4sX7_30252e83dc55850976a4a10eb9e7ff2c2ea29dbd.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/huethehueman"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/huethehueman"
+        }
+      ],
       "tags": [
         "창작"
       ]
@@ -10191,7 +12444,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ijaeyun1677936"
+        }
+      ],
       "tags": [
         "프리파라"
       ]
@@ -10210,9 +12468,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1030070910_0gGhmHwn_3664c916d16a6d055e60f2e6159d4a4232dcb802.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/SCcamal"
+        }
+      ],
       "tags": [
         "SF",
         "백합",
@@ -10234,9 +12497,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/30499635_NfoVtImz_f34f659a44d2909b6b4e55e5695746b976c449b0.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Do_Road_Corp"
+        }
+      ],
       "tags": [
         "니케"
       ]
@@ -10255,9 +12523,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3717447260_fBZaKFO2_bd0c1cf51f420379ec880da49fb24ef9c229db81.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/tayus_dbstory"
+        }
+      ],
       "tags": [
         "서브컬쳐",
         "요리",
@@ -10282,9 +12555,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2000929594_VGXWPy2d_b58c19b5a93ca3d18e262ebd12956497d91df5e0.jpeg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sya95059"
+        }
+      ],
       "tags": [
         "에반게리온",
         "헌터X헌터"
@@ -10307,7 +12585,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/KU69R0"
+        }
+      ],
       "tags": [
         "아이엠스타",
         "포켓몬스터"
@@ -10330,7 +12613,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hanata0421"
+        }
+      ],
       "tags": [
         "아이돌마스터밀리언라이브",
         "학원아이돌마스터"
@@ -10351,9 +12639,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3554343597_WhmwXfqK_b89cfe8a715cea7f032fe210b13608dc1c86da27.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/SSCL4SS"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -10399,7 +12692,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/manyokobo"
+        }
+      ],
       "tags": [
         "니지산지",
         "니케",
@@ -10424,9 +12722,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/661837812_DU6QKyaZ_c0db555fc7145f13bb8db57848a828a6c6e4dae8.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ii9148612052116"
+        }
+      ],
       "tags": [
         "워해머"
       ]
@@ -10445,9 +12748,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3731011485_SA1wcgTd_1676cb86185893951e1828edb01240523276c722.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/alpha_and_ome"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -10469,7 +12777,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ideatami"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/ideatami"
+        }
+      ],
       "tags": [
         "내가키운S급들"
       ]
@@ -10489,7 +12806,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1995113678_T8gzRb6S_e6ed566832171905b04f027b3170e4f68596e0a5.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -10516,9 +12833,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1889883275_1IK4Zag8_2d2b2c5505ad1ba6cc4675e60153017bacd52822.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/jhands_onpc"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/jhands__onpc"
+        }
+      ],
       "tags": [
         "소녀전선",
         "소녀전선2",
@@ -10540,9 +12866,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1938436744_sOCr9J0U_19024fc5ef041677f61c6fd974a385aa7db71b4b.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/bbang_soonD"
+        }
+      ],
       "tags": [
         "장송의프리렌"
       ]
@@ -10562,9 +12893,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/981120851_SEe2XldN_d8a8e59aeb4eea1802eee89b1c54b93822429d38.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/chiehanzan"
+        }
+      ],
       "tags": []
     },
     {
@@ -10581,9 +12917,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3698740871_rKekyfs0_3d0dbffec1494cda7382ed0f596c1001c76d4293.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/asebury"
+        }
+      ],
       "tags": [
         "원피스"
       ]
@@ -10602,7 +12943,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3660772482_C65awMnm_6b37f08c5c91388dbccdb238200d4408fc104c08.png",
       "goods": [],
       "links": [],
       "tags": [
@@ -10623,9 +12964,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3530117919_FOb5wui2_974a376c4fd786a1e51afea4c29333a0bb6f5e11.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/wadamatt1449"
+        }
+      ],
       "tags": [
         "동방프로젝트",
         "프로젝트세카이"
@@ -10648,7 +12994,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/FuriDrawing"
+        }
+      ],
       "tags": [
         "젠레스존제로"
       ]
@@ -10669,7 +13020,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/m0mori_sensei"
+        }
+      ],
       "tags": [
         "니케"
       ]
@@ -10690,7 +13046,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/dothan_osc"
+        }
+      ],
       "tags": [
         "로블록스"
       ]
@@ -10710,9 +13071,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3547763336_bJEfwLh7_a74c124494121ed294744ddbeceef6d359a687da.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/charachan900"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/charachan900"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -10733,7 +13103,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/nyamenyame0w0"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/nyamenyame0w0"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "원신"
@@ -10755,7 +13134,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Honey_Kkiwi"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "젠레스존제로"
@@ -10778,7 +13162,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/chuin01"
+        }
+      ],
       "tags": [
         "리그오브레전드"
       ]
@@ -10798,9 +13187,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2040637264_u7DOcE3R_57deed64277aa39a9a6772c1d5a2bb021e1c699c.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/PPYO2024"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/ppyo777"
+        }
+      ],
       "tags": [
         "보컬라이브",
         "봇치더록",
@@ -10825,7 +13223,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Ren0121_"
+        }
+      ],
       "tags": [
         "프로젝트세카이"
       ]
@@ -10844,9 +13247,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/31733521_T8gtfV0y_ae8c6fa6a407ca18a6bc961510523aa75a81d90f.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hhj799o"
+        }
+      ],
       "tags": [
         "닥터스톤"
       ]
@@ -10866,9 +13274,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/662260513_eygDsB6A_ae8a3efbedd34714314711033d37893811c250f7.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/side_in_game"
+        }
+      ],
       "tags": [
         "AVA",
         "더어메이징디지털서커스",
@@ -10900,9 +13313,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1888867744_D6Gjx8kA_da9fb09655aa09f42f7f4b896c653885b3947654.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/iohc_choi"
+        }
+      ],
       "tags": [
         "창작"
       ]
@@ -10948,7 +13366,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/gyuwonssi"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/없"
+        }
+      ],
       "tags": [
         "러브앤딥스페이스",
         "주술회전"
@@ -10971,7 +13398,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/danmoog_505"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -10993,7 +13425,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Hingumon"
+        }
+      ],
       "tags": [
         "명일방주엔드필드"
       ]
@@ -11012,9 +13449,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/662456005_biZFAOIU_fa732e2c40d1a77813d993964973ab72ba44307d.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Scaraaab_98"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -11035,7 +13477,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/eunram"
+        }
+      ],
       "tags": [
         "프로젝트세카이"
       ]
@@ -11056,7 +13503,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/drbiduba"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "체인소맨"
@@ -11078,7 +13530,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/neoen0"
+        }
+      ],
       "tags": [
         "라이브러리오브루이나",
         "림버스컴퍼니",
@@ -11101,7 +13558,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/gomgoming_"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/gomgoming_"
+        }
+      ],
       "tags": [
         "건담",
         "디지몬",
@@ -11126,9 +13592,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3422123796_6EiYyZoe_e260b3688073c4f543f226d5a8c074cfed0f8587.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Tezu_98"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/deos1301"
+        }
+      ],
       "tags": [
         "꿈빛파티시엘",
         "니케",
@@ -11151,7 +13626,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3422123796_4oU6ZQXI_335e320560f3d2d36c9390a7677a9ba70b5ad337.png",
       "goods": [],
       "links": [],
       "tags": [
@@ -11180,7 +13655,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ggong0go"
+        }
+      ],
       "tags": [
         ".",
         "블루아카이브"
@@ -11201,9 +13681,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1846258108_S2vxh8F3_6db0cd81d12c5996409a33dfcf8271aec3c9f315.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/KAISER_0901"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "스텔라이브"
@@ -11225,7 +13710,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hanaen_frog"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -11244,9 +13734,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3739941521_uInsFKWd_115d4982c0f076914b3d0b92ef7de01447275623.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/mooncat1118"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/catmeow3122"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "좀비고",
@@ -11291,7 +13790,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/INDA_R0"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/eunmi_n1106"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -11312,7 +13820,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/HYURUMARI"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -11331,7 +13844,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/662260513_QcrvhxZD_0bbef16091abedbe16b8aa18085fcb5dcd8e0993.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -11353,9 +13866,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3076810921_RIfncg19_0cd1ea44bba6a9a5b804a93d0556f3286ef8b447.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/hentaimaniac40"
+        }
+      ],
       "tags": [
         "소녀전선",
         "에이스컴뱃",
@@ -11379,7 +13897,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/0103_yj"
+        }
+      ],
       "tags": [
         "붕괴스타레일",
         "원신"
@@ -11402,7 +13925,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Epeach_05"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/weirdpeach.05@gmail.com"
+        }
+      ],
       "tags": [
         "괴담에떨어져도출근을해야하는구나",
         "플레이브"
@@ -11422,9 +13954,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3535113725_EcWnKMSx_42339e51cc1dc71eb840bdbdcaa9a26409bad388.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/lucete_0403"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/lucete.0403"
+        }
+      ],
       "tags": [
         "롤",
         "비스크돌",
@@ -11449,7 +13990,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Justicep4918"
+        }
+      ],
       "tags": []
     },
     {
@@ -11466,9 +14012,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/33222709_ZjvXzJqC_b0107893ee9827762ceb41f80112605710c9d50f.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ChaoYu86475"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/cartiatn"
+        }
+      ],
       "tags": [
         "수제팔찌"
       ]
@@ -11490,7 +14045,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Sibeoji"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -11538,7 +14098,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/jellyman_hlsy"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -11557,9 +14122,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3699309722_uXLROnVc_0b1befc575fe477d898750f70474f505c75d4420.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/usb_omelet0901"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/usb_10clip"
+        }
+      ],
       "tags": [
         "사우스파크"
       ]
@@ -11581,7 +14155,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/useul00"
+        }
+      ],
       "tags": [
         "보컬로이드",
         "블루아카이브",
@@ -11603,9 +14182,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3528489610_YX8TjHiD_ef08196c7e5768de01920ca89f84a652ed5019d3.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/3d_3e_"
+        }
+      ],
       "tags": [
         "스텔라이브",
         "원신"
@@ -11625,9 +14209,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3552243521_RmlsHVfE_def35c876b17788bca067dc4630b6bbabae65f28.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/B_CIRCUS_"
+        }
+      ],
       "tags": [
         "기타"
       ]
@@ -11646,9 +14235,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3555818824_HNTja5c7_55af5df1186b732c471a166c795c87d8509b634e.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Yeon_Lam_"
+        }
+      ],
       "tags": [
         "소녀전선"
       ]
@@ -11670,7 +14264,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/subin_2011"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -11692,7 +14291,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/fifteen_199"
+        }
+      ],
       "tags": [
         "밀리터리"
       ]
@@ -11711,9 +14315,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3534978622_923kwQ1c_ded4acb195d895a914bf3c16942c588b63bb81ca.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/cheongignorance"
+        }
+      ],
       "tags": []
     },
     {
@@ -11735,7 +14344,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/bob_tong_95"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -11756,7 +14370,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/DK_DK42"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "원신"
@@ -11776,9 +14395,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3555411634_CTmHZ4b3_4dbd0167e98061b9e9cdf51bc492319386f1bf30.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/simnyang2"
+        }
+      ],
       "tags": [
         "로블록스"
       ]
@@ -11797,9 +14421,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1029003058_wUtndEqr_aac38503ea863dcc6a3aca5a9ebe12aff5adab0e.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/도붕"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/mattaku.mwu"
+        }
+      ],
       "tags": [
         "동방프로젝트",
         "젠레스존제로"
@@ -11819,7 +14452,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3556277992_4dViY6Zs_05870302f1577b637c8c8ad50cc5fcdfe2c32390.png",
       "goods": [],
       "links": [],
       "tags": [
@@ -11841,9 +14474,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3537893489_Dl1T0qJp_479d64ec1a77c81a360e0917aa04f0298f641ee5.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/fried_eggs12"
+        }
+      ],
       "tags": [
         "거츠엔블랙파우더",
         "다오데",
@@ -11876,7 +14514,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Y786874421"
+        }
+      ],
       "tags": [
         "로블록스"
       ]
@@ -11897,7 +14540,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/young9_99"
+        }
+      ],
       "tags": [
         "니케"
       ]
@@ -11917,9 +14565,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2949625124_ndyO2D0V_3bd56caff5618aa871416b31623c700e085b2620.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/leemile0505"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/lee-mile0505"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -11938,9 +14595,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3555412914_Ji7lyN32_9273df8c5a948de0595d7936528c134dbcbc455f.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Artist_Korend"
+        }
+      ],
       "tags": [
         "몬스터헌터스토리즈"
       ]
@@ -11962,7 +14624,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/SPICA_TEAM1"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/03j_park_back"
+        }
+      ],
       "tags": [
         "버츄얼",
         "코스프레"
@@ -11985,7 +14656,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/sia0555, @KGS701, @sadas_d86150, @dotebox"
+        }
+      ],
       "tags": [
         "젠레스존제로"
       ]
@@ -12005,9 +14681,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2039099830_59gGclfI_4eaa1bfc8f2f0f7524ef2bfb3c93bb865f632b9a.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/meot_ori"
+        }
+      ],
       "tags": [
         "붕괴스타레일"
       ]
@@ -12029,7 +14710,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/solgil.j"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "스텔라이브",
@@ -12053,7 +14739,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Gulchakk1"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/gulchacki"
+        }
+      ],
       "tags": [
         "니케",
         "명조",
@@ -12077,7 +14772,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3553205342_qkA1ljni_64a0f1b28f7911992fb65ec363f267fa49e8d9be.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -12101,7 +14796,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/SONSON_O3O"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/SONSON_O3O"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "코스프레포토북"
@@ -12124,7 +14828,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/minaleeman"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/minaleeman1"
+        }
+      ],
       "tags": [
         "스파이패밀리"
       ]
@@ -12145,7 +14858,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/amol_0523"
+        }
+      ],
       "tags": [
         "니케",
         "명일방주"
@@ -12167,7 +14885,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/wlqtkthylvek"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -12186,9 +14909,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3717661757_UrWVhBHG_563c18bc0315a0b0a86a0ec2bfdbd9cae79ebaf2.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/notfreshmeat619"
+        }
+      ],
       "tags": [
         "gasa4",
         "로블록스",
@@ -12212,9 +14940,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/662253907_jnuzUcRl_8b6232d2575803f15e0be9293e364f9dafd53966.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ChewiJH"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/chewi_jh"
+        }
+      ],
       "tags": [
         "스텔라이브"
       ]
@@ -12256,7 +14993,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/melro_0414"
+        }
+      ],
       "tags": [
         "림버스컴퍼니"
       ]
@@ -12275,9 +15017,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1982381471_ldgMhqSG_ffc8079c2badb0c2c9c1d1e1564b9ec742af5373.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ricotacheese13"
+        }
+      ],
       "tags": [
         "가치아쿠타",
         "원신",
@@ -12298,9 +15045,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3552788815_4gTsLdn8_e6b6bd8d2455376f9fb72f257141a4a9c1b07ab0.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/yaru_132"
+        }
+      ],
       "tags": [
         "사우스파크"
       ]
@@ -12321,7 +15073,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/kirin_candydaze"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/seria_candy"
+        }
+      ],
       "tags": [
         "마법소녀의마녀재판",
         "명조",
@@ -12347,7 +15108,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/na_mnmgmm"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/na_une"
+        }
+      ],
       "tags": [
         "리그오브레전드",
         "마인크래프트",
@@ -12368,9 +15138,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1995131218_m7H1gY0S_ba44a7c67e157afe5eb104c4a4dab8e8ed1d3be2.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Le_zakaya"
+        }
+      ],
       "tags": [
         "re:제로부터시작하는이세계생활",
         "보석의나라",
@@ -12397,7 +15172,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/malyn_Official"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/malyn0mun"
+        }
+      ],
       "tags": [
         "사이퍼즈",
         "원신"
@@ -12440,7 +15224,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/men0105"
+        }
+      ],
       "tags": [
         "프로젝트세카이"
       ]
@@ -12462,7 +15251,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/modeldoll73"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -12482,9 +15276,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/990758471_orgXI9Lz_8655f82e5c16290e2a877e2f9ab712342cac40dc.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/rlaqlsk701"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/rlaqlcsk701"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -12506,7 +15309,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/MinCha0217"
+        }
+      ],
       "tags": [
         "Pwnedby14:00",
         "로블록스",
@@ -12527,9 +15335,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/662202010_Rcx07N8l_cd3860d2ca4fd84a150a97fbc733d507c06cc294.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Quir_cos"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/forchemirt"
+        }
+      ],
       "tags": [
         "블루아카이브",
         "우마무스메"
@@ -12552,7 +15369,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/mgn_friend"
+        }
+      ],
       "tags": [
         "명일방주",
         "봇치더록",
@@ -12575,7 +15397,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/joo0613joo"
+        }
+      ],
       "tags": [
         "가면라이더",
         "가비지타임",
@@ -12624,9 +15451,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2949334907_LFINruwQ_4d117e7b3d541bfa53698beb26c653ee7118918c.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/majin4821230365"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -12647,7 +15479,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/curryhot08"
+        }
+      ],
       "tags": [
         "울트라맨"
       ]
@@ -12691,7 +15528,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/EMSHH00"
+        }
+      ],
       "tags": [
         "길티기어"
       ]
@@ -12713,7 +15555,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/parknana_0716/"
+        }
+      ],
       "tags": [
         "유튜버"
       ]
@@ -12734,7 +15581,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Happy__Day_1"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/X"
+        }
+      ],
       "tags": [
         "오버워치",
         "해즈빈호텔",
@@ -12778,7 +15634,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/linkclickdive"
+        }
+      ],
       "tags": [
         "시광대리인",
         "장송의프리렌"
@@ -12799,9 +15660,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/833218795_T0IgSO9s_fbe3a36e2c13e7a438582318dce793fb137e07f6.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ui2ko"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/ui2ko"
+        }
+      ],
       "tags": [
         "로블록스",
         "스키비디토일렛",
@@ -12826,7 +15696,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/choyulll_03"
+        }
+      ],
       "tags": [
         "벽람항로"
       ]
@@ -12846,7 +15721,16 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ph1lanthr0p1st"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/yujiz_88"
+        }
+      ],
       "tags": [
         "가비지타임",
         "늑대게임"
@@ -12867,9 +15751,18 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3659997665_w8QTCHGe_d3f0935ee8f0c8e6283d86a8a060e9dd0227bb99.jpg",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/Toromi_cos"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/toromi_cos"
+        }
+      ],
       "tags": [
         "블루아카이브"
       ]
@@ -12890,7 +15783,12 @@
       "artists": [],
       "infoImage": "",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/DotoriDoguldan"
+        }
+      ],
       "tags": []
     },
     {
@@ -12907,9 +15805,14 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1029921350_qk3cDKCB_6f15a872f28c8f211540ad72ae7e80436cb7515e.png",
       "goods": [],
-      "links": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/RedDawn_Dev"
+        }
+      ],
       "tags": [
         "SRPG",
         "인디게임",

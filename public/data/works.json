@@ -18,8 +18,20 @@
     "category": "other"
   },
   {
+    "id": "1차창작물",
+    "name": "1차창작물",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "1차창작캐릭터",
     "name": "1차창작캐릭터",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "2000년대애니전반",
+    "name": "2000년대애니전반",
     "aliases": [],
     "category": "other"
   },
@@ -30,8 +42,68 @@
     "category": "other"
   },
   {
+    "id": "coc",
+    "name": "CoC",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "ena",
+    "name": "ENA",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "ena:dreambbq",
+    "name": "ENA:DreamBBQ",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "fate",
     "name": "Fate",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "gasa4",
+    "name": "GASA4",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "grokani",
+    "name": "GrokAni",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "pwnedby14:00",
+    "name": "Pwnedby14:00",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "sf",
+    "name": "SF",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "srpg",
+    "name": "SRPG",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "vrchat",
+    "name": "VRCHAT",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "[페이트]",
+    "name": "[페이트]",
     "aliases": [],
     "category": "other"
   },
@@ -48,8 +120,20 @@
     "category": "other"
   },
   {
+    "id": "re:제로부터시작하는이세계생활",
+    "name": "re:제로부터시작하는이세계생활",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "smg4",
     "name": "smg4",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "thefreakcircus",
+    "name": "thefreakcircus",
     "aliases": [],
     "category": "other"
   },
@@ -90,8 +174,26 @@
     "category": "other"
   },
   {
+    "id": "가히리",
+    "name": "가히리",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "강아지",
+    "name": "강아지",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "개구리중사케로로",
     "name": "개구리중사케로로",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "거츠엔블랙파우더",
+    "name": "거츠엔블랙파우더",
     "aliases": [],
     "category": "other"
   },
@@ -108,7 +210,7 @@
     "category": "other"
   },
   {
-    "id": "건어물여동생우마루짱",
+    "id": "건어물여동생!우마루짱",
     "name": "건어물여동생!우마루짱",
     "aliases": [],
     "category": "other"
@@ -126,8 +228,26 @@
     "category": "other"
   },
   {
+    "id": "걸판",
+    "name": "걸판",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "게임",
     "name": "게임",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "게임및기타",
+    "name": "게임및기타",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "고스트바둑왕",
+    "name": "고스트바둑왕",
     "aliases": [],
     "category": "other"
   },
@@ -150,6 +270,12 @@
     "category": "other"
   },
   {
+    "id": "고전프라문구",
+    "name": "고전프라문구",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "골든카무이",
     "name": "골든카무이",
     "aliases": [],
@@ -164,6 +290,12 @@
   {
     "id": "괴담에_떨어져도_출근을_해야하는구나",
     "name": "괴담에 떨어져도 출근을 해야하는구나",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "괴담에떨어져도출근은해야하는구나",
+    "name": "괴담에떨어져도출근은해야하는구나",
     "aliases": [],
     "category": "other"
   },
@@ -222,8 +354,32 @@
     "category": "other"
   },
   {
+    "id": "그비스크돌은사랑을한다",
+    "name": "그비스크돌은사랑을한다",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "기타",
     "name": "기타",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "길티기어",
+    "name": "길티기어",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "꿈빛파티시엘",
+    "name": "꿈빛파티시엘",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "나나",
+    "name": "나나",
     "aliases": [],
     "category": "other"
   },
@@ -248,12 +404,14 @@
   {
     "id": "나의히어로아카데미아",
     "name": "나의히어로아카데미아",
-    "aliases": [],
+    "aliases": [
+      "나히아"
+    ],
     "category": "other"
   },
   {
-    "id": "나히아",
-    "name": "나히아",
+    "id": "나혼자만레벨업",
+    "name": "나혼자만레벨업",
     "aliases": [],
     "category": "other"
   },
@@ -278,6 +436,18 @@
   {
     "id": "노게임노라이프",
     "name": "노게임노라이프",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "뉴럴_클라우드",
+    "name": "뉴럴 클라우드",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "늑대게임",
+    "name": "늑대게임",
     "aliases": [],
     "category": "other"
   },
@@ -324,8 +494,14 @@
     "category": "other"
   },
   {
-    "id": "닌타마도리벤",
+    "id": "닌타마.도리벤",
     "name": "닌타마.도리벤",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "다오데",
+    "name": "다오데",
     "aliases": [],
     "category": "other"
   },
@@ -360,8 +536,26 @@
     "category": "other"
   },
   {
+    "id": "단다단",
+    "name": "단다단",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "달빛천사",
     "name": "달빛천사",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "당신과그녀와그녀의사랑",
+    "name": "당신과그녀와그녀의사랑",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "댄디스월드",
+    "name": "댄디스월드",
     "aliases": [],
     "category": "other"
   },
@@ -378,6 +572,12 @@
     "category": "other"
   },
   {
+    "id": "댄디의세계",
+    "name": "댄디의세계",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "더_어메이징_디지털_서커스",
     "name": "더 어메이징 디지털 서커스",
     "aliases": [],
@@ -390,6 +590,18 @@
     "category": "other"
   },
   {
+    "id": "더어메이징디지털서커스",
+    "name": "더어메이징디지털서커스",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "더프릭서커스",
+    "name": "더프릭서커스",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "던전밥",
     "name": "던전밥",
     "aliases": [],
@@ -398,6 +610,12 @@
   {
     "id": "던전앤파이터",
     "name": "던전앤파이터",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "데못죽",
+    "name": "데못죽",
     "aliases": [],
     "category": "other"
   },
@@ -420,6 +638,12 @@
     "category": "other"
   },
   {
+    "id": "데뷔하지_못하면_죽는병_걸림",
+    "name": "데뷔하지 못하면 죽는병 걸림",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "데스노트",
     "name": "데스노트",
     "aliases": [],
@@ -438,6 +662,24 @@
     "category": "other"
   },
   {
+    "id": "도리벤",
+    "name": "도리벤",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "도어즈",
+    "name": "도어즈",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "도원암귀",
+    "name": "도원암귀",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "도쿄구울",
     "name": "도쿄구울",
     "aliases": [],
@@ -450,8 +692,20 @@
     "category": "other"
   },
   {
+    "id": "도쿄리벤져스",
+    "name": "도쿄리벤져스",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "동물",
     "name": "동물",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "동물캐릭터",
+    "name": "동물캐릭터",
     "aliases": [],
     "category": "other"
   },
@@ -474,14 +728,26 @@
     "category": "other"
   },
   {
+    "id": "디씨코믹스",
+    "name": "디씨코믹스",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "디제이맥스",
     "name": "디제이맥스",
     "aliases": [],
     "category": "other"
   },
   {
-    "id": "디제이맥스_플라티나랩",
-    "name": "디제이맥스 플라티나랩",
+    "id": "디제이맥스플라티나랩하츠네미쿠",
+    "name": "디제이맥스플라티나랩하츠네미쿠",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "디지몬",
+    "name": "디지몬",
     "aliases": [],
     "category": "other"
   },
@@ -594,8 +860,26 @@
     "category": "other"
   },
   {
+    "id": "로봇",
+    "name": "로봇",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "로블록스",
     "name": "로블록스",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "로블록스arg",
+    "name": "로블록스ARG",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "로블록스어드민",
+    "name": "로블록스어드민",
     "aliases": [],
     "category": "other"
   },
@@ -606,8 +890,14 @@
     "category": "other"
   },
   {
-    "id": "롤_등",
-    "name": "롤 등",
+    "id": "록맨",
+    "name": "록맨",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "롤등",
+    "name": "롤등",
     "aliases": [],
     "category": "other"
   },
@@ -620,6 +910,12 @@
   {
     "id": "리그레터베이터",
     "name": "리그레터베이터",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "리그베이터",
+    "name": "리그베이터",
     "aliases": [],
     "category": "other"
   },
@@ -642,8 +938,14 @@
     "category": "other"
   },
   {
-    "id": "리제로",
-    "name": "리제로",
+    "id": "릭앤모티",
+    "name": "릭앤모티",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "림버스",
+    "name": "림버스",
     "aliases": [],
     "category": "other"
   },
@@ -666,8 +968,20 @@
     "category": "other"
   },
   {
+    "id": "마마마",
+    "name": "마마마",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "마법명가_차남으로_살아남는_법",
     "name": "마법명가 차남으로 살아남는 법",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "마법소녀를동경해서",
+    "name": "마법소녀를동경해서",
     "aliases": [],
     "category": "other"
   },
@@ -684,6 +998,12 @@
     "category": "other"
   },
   {
+    "id": "마법소녀의마녀재판",
+    "name": "마법소녀의마녀재판",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "마블",
     "name": "마블",
     "aliases": [],
@@ -692,6 +1012,12 @@
   {
     "id": "마왕성에서_잘_자요",
     "name": "마왕성에서 잘 자요",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "마왕의딸은친절해",
+    "name": "마왕의딸은친절해",
     "aliases": [],
     "category": "other"
   },
@@ -714,6 +1040,12 @@
     "category": "other"
   },
   {
+    "id": "마인크래프트",
+    "name": "마인크래프트",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "마차살",
     "name": "마차살",
     "aliases": [],
@@ -722,6 +1054,18 @@
   {
     "id": "만화",
     "name": "만화",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "말랑이온라인",
+    "name": "말랑이온라인",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "망나니pd아이돌로살아남기",
+    "name": "망나니PD아이돌로살아남기",
     "aliases": [],
     "category": "other"
   },
@@ -738,8 +1082,20 @@
     "category": "other"
   },
   {
+    "id": "먼작귀",
+    "name": "먼작귀",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "메이플스토리",
     "name": "메이플스토리",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "메탈카드봇",
+    "name": "메탈카드봇",
     "aliases": [],
     "category": "other"
   },
@@ -756,7 +1112,7 @@
     "category": "other"
   },
   {
-    "id": "명일방주__엔드필드",
+    "id": "명일방주_:_엔드필드",
     "name": "명일방주 : 엔드필드",
     "aliases": [],
     "category": "other"
@@ -780,8 +1136,20 @@
     "category": "other"
   },
   {
+    "id": "모노가타리시리즈",
+    "name": "모노가타리시리즈",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "모노노케",
     "name": "모노노케",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "모브사이코",
+    "name": "모브사이코",
     "aliases": [],
     "category": "other"
   },
@@ -792,14 +1160,38 @@
     "category": "other"
   },
   {
+    "id": "몬스터헌터스토리즈",
+    "name": "몬스터헌터스토리즈",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "무색의_카이나",
     "name": "무색의 카이나",
     "aliases": [],
     "category": "other"
   },
   {
+    "id": "문학",
+    "name": "문학",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "문호스트레이독스",
     "name": "문호스트레이독스",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "미츄",
+    "name": "미츄",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "미쿠",
+    "name": "미쿠",
     "aliases": [],
     "category": "other"
   },
@@ -822,6 +1214,12 @@
     "category": "other"
   },
   {
+    "id": "발디의수학교실",
+    "name": "발디의수학교실",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "발로란트",
     "name": "발로란트",
     "aliases": [],
@@ -834,13 +1232,31 @@
     "category": "other"
   },
   {
+    "id": "배드띵스",
+    "name": "배드띵스",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "백합",
+    "name": "백합",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "뱅가드",
+    "name": "뱅가드",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "뱅드림",
     "name": "뱅드림",
     "aliases": [],
     "category": "other"
   },
   {
-    "id": "뱅드림_마이고",
+    "id": "뱅드림_마이고!!!!!",
     "name": "뱅드림 마이고!!!!!",
     "aliases": [],
     "category": "other"
@@ -852,14 +1268,32 @@
     "category": "other"
   },
   {
+    "id": "벽람항로",
+    "name": "벽람항로",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "보석의나라",
     "name": "보석의나라",
     "aliases": [],
     "category": "other"
   },
   {
+    "id": "보이스로이드",
+    "name": "보이스로이드",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "보카로",
     "name": "보카로",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "보컬라이브",
+    "name": "보컬라이브",
     "aliases": [],
     "category": "other"
   },
@@ -882,6 +1316,12 @@
     "category": "other"
   },
   {
+    "id": "봇치더록!",
+    "name": "봇치더록!",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "붕괴",
     "name": "붕괴",
     "aliases": [],
@@ -900,13 +1340,28 @@
     "category": "other"
   },
   {
-    "id": "붕괴스타레일",
-    "name": "붕괴스타레일",
+    "id": "붕괴:스타레일",
+    "name": "붕괴:스타레일",
+    "aliases": [
+      "스타레일",
+      "붕괴스타레일"
+    ],
+    "category": "other"
+  },
+  {
+    "id": "브라운더스트2",
+    "name": "브라운더스트2",
     "aliases": [],
     "category": "other"
   },
   {
     "id": "브이스포",
+    "name": "브이스포",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "브이스포!",
     "name": "브이스포!",
     "aliases": [],
     "category": "other"
@@ -932,8 +1387,11 @@
   {
     "id": "블루아카이브",
     "name": "블루아카이브",
-    "aliases": [],
-    "category": "other"
+    "aliases": [
+      "블루아카",
+      "블아"
+    ],
+    "category": "game"
   },
   {
     "id": "블리치",
@@ -966,6 +1424,18 @@
     "category": "other"
   },
   {
+    "id": "비주얼노벨",
+    "name": "비주얼노벨",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "빌러너스",
+    "name": "빌러너스",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "빵신",
     "name": "빵신",
     "aliases": [],
@@ -974,6 +1444,18 @@
   {
     "id": "사신짱_드롭킥",
     "name": "사신짱 드롭킥",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "사야의노래",
+    "name": "사야의노래",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "사요나라를가르쳐줘",
+    "name": "사요나라를가르쳐줘",
     "aliases": [],
     "category": "other"
   },
@@ -992,6 +1474,24 @@
   {
     "id": "사이버펑크엣지러너",
     "name": "사이버펑크엣지러너",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "사이키쿠스오의재난",
+    "name": "사이키쿠스오의재난",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "사이퍼즈",
+    "name": "사이퍼즈",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "사카데이",
+    "name": "사카데이",
     "aliases": [],
     "category": "other"
   },
@@ -1026,8 +1526,32 @@
     "category": "other"
   },
   {
+    "id": "새벽의연화",
+    "name": "새벽의연화",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "서브컬쳐",
+    "name": "서브컬쳐",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "세일러문",
     "name": "세일러문",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "세일러문등",
+    "name": "세일러문등",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "세일러문등다양한장르",
+    "name": "세일러문등다양한장르",
     "aliases": [],
     "category": "other"
   },
@@ -1056,6 +1580,12 @@
     "category": "other"
   },
   {
+    "id": "소녀전선시리즈",
+    "name": "소녀전선시리즈",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "소닉",
     "name": "소닉",
     "aliases": [],
@@ -1070,6 +1600,12 @@
   {
     "id": "소울이터",
     "name": "소울이터",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "수제팔찌",
+    "name": "수제팔찌",
     "aliases": [],
     "category": "other"
   },
@@ -1098,14 +1634,14 @@
     "category": "other"
   },
   {
-    "id": "스킵과_로퍼",
-    "name": "스킵과 로퍼",
+    "id": "스키비디토일렛",
+    "name": "스키비디토일렛",
     "aliases": [],
     "category": "other"
   },
   {
-    "id": "스타레일",
-    "name": "스타레일",
+    "id": "스킵과_로퍼",
+    "name": "스킵과 로퍼",
     "aliases": [],
     "category": "other"
   },
@@ -1116,8 +1652,20 @@
     "category": "other"
   },
   {
+    "id": "스텔라소라",
+    "name": "스텔라소라",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "스텔라이브",
     "name": "스텔라이브",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "스티븐유니버스",
+    "name": "스티븐유니버스",
     "aliases": [],
     "category": "other"
   },
@@ -1158,6 +1706,30 @@
     "category": "other"
   },
   {
+    "id": "시유",
+    "name": "시유",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "시유니",
+    "name": "시유니",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "신만이아는세계",
+    "name": "신만이아는세계",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "신의탑",
+    "name": "신의탑",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "신카이마코토",
     "name": "신카이마코토",
     "aliases": [],
@@ -1182,6 +1754,18 @@
     "category": "other"
   },
   {
+    "id": "쓰르라미울적에",
+    "name": "쓰르라미울적에",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "아르케아",
+    "name": "아르케아",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "아베무지카",
     "name": "아베무지카",
     "aliases": [],
@@ -1202,6 +1786,24 @@
   {
     "id": "아이돌마스터",
     "name": "아이돌마스터",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "아이돌마스터밀리언라이브",
+    "name": "아이돌마스터밀리언라이브",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "아이돌마스터사이드엠",
+    "name": "아이돌마스터사이드엠",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "아이실드21",
+    "name": "아이실드21",
     "aliases": [],
     "category": "other"
   },
@@ -1236,6 +1838,18 @@
     "category": "other"
   },
   {
+    "id": "암살교실",
+    "name": "암살교실",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "압력",
+    "name": "압력",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "앙상블_스타즈",
     "name": "앙상블 스타즈",
     "aliases": [],
@@ -1250,6 +1864,18 @@
   {
     "id": "앙스타",
     "name": "앙스타",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "애즈월드",
+    "name": "애즈월드",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "야인시대",
+    "name": "야인시대",
     "aliases": [],
     "category": "other"
   },
@@ -1272,6 +1898,12 @@
     "category": "other"
   },
   {
+    "id": "어드벤처타임",
+    "name": "어드벤처타임",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "언더테일",
     "name": "언더테일",
     "aliases": [],
@@ -1290,14 +1922,38 @@
     "category": "other"
   },
   {
+    "id": "에반게이론",
+    "name": "에반게이론",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "에브리데이호스트",
     "name": "에브리데이호스트",
     "aliases": [],
     "category": "other"
   },
   {
+    "id": "에빌리오스시리즈",
+    "name": "에빌리오스시리즈",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "에이스컴뱃",
+    "name": "에이스컴뱃",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "에이스테",
     "name": "에이스테",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "에이펙스",
+    "name": "에이펙스",
     "aliases": [],
     "category": "other"
   },
@@ -1326,6 +1982,12 @@
     "category": "other"
   },
   {
+    "id": "여러장르",
+    "name": "여러장르",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "역대급영지설계사",
     "name": "역대급영지설계사",
     "aliases": [],
@@ -1338,6 +2000,18 @@
     "category": "other"
   },
   {
+    "id": "역키링",
+    "name": "역키링",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "오늘부터신령님",
+    "name": "오늘부터신령님",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "오란고교사교클럽",
     "name": "오란고교사교클럽",
     "aliases": [],
@@ -1346,6 +2020,12 @@
   {
     "id": "오리지널",
     "name": "오리지널",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "오리지널창작",
+    "name": "오리지널창작",
     "aliases": [],
     "category": "other"
   },
@@ -1374,8 +2054,26 @@
     "category": "other"
   },
   {
+    "id": "오아시스",
+    "name": "오아시스",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "외모지상주의",
     "name": "외모지상주의",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "요리",
+    "name": "요리",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "우리집반려소녀",
+    "name": "우리집반려소녀",
     "aliases": [],
     "category": "other"
   },
@@ -1386,8 +2084,38 @@
     "category": "other"
   },
   {
+    "id": "우주선",
+    "name": "우주선",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "울트라맨",
+    "name": "울트라맨",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "워크래프트",
+    "name": "워크래프트",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "워해머",
+    "name": "워해머",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "원신",
     "name": "원신",
+    "aliases": [],
+    "category": "game"
+  },
+  {
+    "id": "원신외팬시온리",
+    "name": "원신외팬시온리",
     "aliases": [],
     "category": "other"
   },
@@ -1404,8 +2132,26 @@
     "category": "other"
   },
   {
+    "id": "위니언바이러스",
+    "name": "위니언바이러스",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "윈드브레이커",
     "name": "윈드브레이커",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "윈브레",
+    "name": "윈브레",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "유튜버",
+    "name": "유튜버",
     "aliases": [],
     "category": "other"
   },
@@ -1422,14 +2168,26 @@
     "category": "other"
   },
   {
-    "id": "은혼_상기_버튼이_선택이_안됨",
+    "id": "은혼_(상기_버튼이_선택이_안됨)",
     "name": "은혼 (상기 버튼이 선택이 안됨)",
     "aliases": [],
     "category": "other"
   },
   {
-    "id": "은혼_등",
-    "name": "은혼 등",
+    "id": "은혼등",
+    "name": "은혼등",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "음성합성엔진",
+    "name": "음성합성엔진",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "의원다시살다",
+    "name": "의원다시살다",
     "aliases": [],
     "category": "other"
   },
@@ -1476,8 +2234,38 @@
     "category": "other"
   },
   {
+    "id": "이환",
+    "name": "이환",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "인디게임",
+    "name": "인디게임",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "인디게임굿즈",
+    "name": "인디게임굿즈",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "일러스트",
     "name": "일러스트",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "입양하세요!",
+    "name": "입양하세요!",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "자동차",
+    "name": "자동차",
     "aliases": [],
     "category": "other"
   },
@@ -1500,6 +2288,12 @@
     "category": "other"
   },
   {
+    "id": "저그런인재아닙니다",
+    "name": "저그런인재아닙니다",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "전독시",
     "name": "전독시",
     "aliases": [],
@@ -1508,6 +2302,12 @@
   {
     "id": "전생했더니슬라임이었던건에대하여",
     "name": "전생했더니슬라임이었던건에대하여",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "전시장르-기타",
+    "name": "전시장르-기타",
     "aliases": [],
     "category": "other"
   },
@@ -1566,8 +2366,20 @@
     "category": "other"
   },
   {
+    "id": "젠로스존제로",
+    "name": "젠로스존제로",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "젠존제",
     "name": "젠존제",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "젤다의전설",
+    "name": "젤다의전설",
     "aliases": [],
     "category": "other"
   },
@@ -1586,6 +2398,12 @@
   {
     "id": "주술회전",
     "name": "주술회전",
+    "aliases": [],
+    "category": "anime"
+  },
+  {
+    "id": "주토피아",
+    "name": "주토피아",
     "aliases": [],
     "category": "other"
   },
@@ -1614,14 +2432,38 @@
     "category": "other"
   },
   {
+    "id": "짱구는못말려",
+    "name": "짱구는못말려",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "창작",
     "name": "창작",
     "aliases": [],
     "category": "other"
   },
   {
+    "id": "창작게임",
+    "name": "창작게임",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "창작일상",
+    "name": "창작일상",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "천관사복",
     "name": "천관사복",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "철야의_노래",
+    "name": "철야의 노래",
     "aliases": [],
     "category": "other"
   },
@@ -1650,7 +2492,19 @@
     "category": "other"
   },
   {
+    "id": "초(超)가구야공주!",
+    "name": "초(超)가구야공주!",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "초가구야공주",
+    "name": "초가구야공주",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "초가구야공주!",
     "name": "초가구야공주!",
     "aliases": [],
     "category": "other"
@@ -1664,6 +2518,18 @@
   {
     "id": "초카구야공주",
     "name": "초카구야공주",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "초카구야히메",
+    "name": "초카구야히메",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "최애의_아이",
+    "name": "최애의 아이",
     "aliases": [],
     "category": "other"
   },
@@ -1686,14 +2552,56 @@
     "category": "other"
   },
   {
+    "id": "카드",
+    "name": "카드",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "카드캡터사쿠라",
     "name": "카드캡터사쿠라",
     "aliases": [],
     "category": "other"
   },
   {
+    "id": "카드캡터체리",
+    "name": "카드캡터체리",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "카리스마",
     "name": "카리스마",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "카사네테토",
+    "name": "카사네테토",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "카케구루이",
+    "name": "카케구루이",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "카툰",
+    "name": "카툰",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "카트라이더",
+    "name": "카트라이더",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "칸코레",
+    "name": "칸코레",
     "aliases": [],
     "category": "other"
   },
@@ -1706,6 +2614,48 @@
   {
     "id": "캐릭터",
     "name": "캐릭터",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "캐슬",
+    "name": "캐슬",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "캐캐체",
+    "name": "캐캐체",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "캠핑",
+    "name": "캠핑",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "케데헌",
+    "name": "케데헌",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "케로로",
+    "name": "케로로",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "케모노프렌즈",
+    "name": "케모노프렌즈",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "케무리쿠사",
+    "name": "케무리쿠사",
     "aliases": [],
     "category": "other"
   },
@@ -1734,6 +2684,24 @@
     "category": "other"
   },
   {
+    "id": "코미양은커뮤증입니다",
+    "name": "코미양은커뮤증입니다",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "코스프레",
+    "name": "코스프레",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "코스프레포토북",
+    "name": "코스프레포토북",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "콩코드",
     "name": "콩코드",
     "aliases": [],
@@ -1754,6 +2722,18 @@
   {
     "id": "쿠키런킹덤",
     "name": "쿠키런킹덤",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "크라이오브페어",
+    "name": "크라이오브페어",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "크리피파스타",
+    "name": "크리피파스타",
     "aliases": [],
     "category": "other"
   },
@@ -1782,8 +2762,14 @@
     "category": "other"
   },
   {
-    "id": "타몬군은지금어느쪽",
+    "id": "타몬군은지금어느쪽?!",
     "name": "타몬군은지금어느쪽?!",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "타인은지옥이다",
+    "name": "타인은지옥이다",
     "aliases": [],
     "category": "other"
   },
@@ -1794,8 +2780,8 @@
     "category": "other"
   },
   {
-    "id": "트릭컬",
-    "name": "트릭컬",
+    "id": "토리코",
+    "name": "토리코",
     "aliases": [],
     "category": "other"
   },
@@ -1812,8 +2798,26 @@
     "category": "other"
   },
   {
+    "id": "트위스티드원더랜드",
+    "name": "트위스티드원더랜드",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "팀포트리스2",
     "name": "팀포트리스2",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "파워퍼프걸",
+    "name": "파워퍼프걸",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "파이널판타지",
+    "name": "파이널판타지",
     "aliases": [],
     "category": "other"
   },
@@ -1824,8 +2828,20 @@
     "category": "other"
   },
   {
+    "id": "파이팅!",
+    "name": "파이팅!",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "파판",
     "name": "파판",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "파피플레이타임",
+    "name": "파피플레이타임",
     "aliases": [],
     "category": "other"
   },
@@ -1854,14 +2870,14 @@
     "category": "other"
   },
   {
-    "id": "페르소나",
-    "name": "페르소나",
+    "id": "퍼즐",
+    "name": "퍼즐",
     "aliases": [],
     "category": "other"
   },
   {
-    "id": "페이트",
-    "name": "페이트",
+    "id": "페르소나",
+    "name": "페르소나",
     "aliases": [],
     "category": "other"
   },
@@ -1872,8 +2888,32 @@
     "category": "other"
   },
   {
+    "id": "페이트스트레인지페이크",
+    "name": "페이트스트레인지페이크",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "페이트시리즈",
+    "name": "페이트시리즈",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "페페밈",
+    "name": "페페밈",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "포세이큰",
     "name": "포세이큰",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "포캣몬",
+    "name": "포캣몬",
     "aliases": [],
     "category": "other"
   },
@@ -1902,13 +2942,25 @@
     "category": "other"
   },
   {
+    "id": "프로세카",
+    "name": "프로세카",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "프로젝스세카이",
+    "name": "프로젝스세카이",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "프로젝트_문",
     "name": "프로젝트 문",
     "aliases": [],
     "category": "other"
   },
   {
-    "id": "프로젝트_세카이_컬러풀_스테이지_feat하츠네_미쿠",
+    "id": "프로젝트_세카이_컬러풀_스테이지!_feat.하츠네_미쿠",
     "name": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠",
     "aliases": [],
     "category": "other"
@@ -1916,6 +2968,12 @@
   {
     "id": "프로젝트세카이",
     "name": "프로젝트세카이",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "프로젝트세카이컬러풀스테이지!feat.하츠네미쿠",
+    "name": "프로젝트세카이컬러풀스테이지!feat.하츠네미쿠",
     "aliases": [],
     "category": "other"
   },
@@ -1932,8 +2990,20 @@
     "category": "other"
   },
   {
+    "id": "프리즘스톤",
+    "name": "프리즘스톤",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "프리큐어",
     "name": "프리큐어",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "프리티리듬",
+    "name": "프리티리듬",
     "aliases": [],
     "category": "other"
   },
@@ -1950,6 +3020,12 @@
     "category": "other"
   },
   {
+    "id": "프린세스메이커",
+    "name": "프린세스메이커",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "플레이브",
     "name": "플레이브",
     "aliases": [],
@@ -1962,10 +3038,16 @@
     "category": "other"
   },
   {
+    "id": "하이가쿠라",
+    "name": "하이가쿠라",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "하이큐",
     "name": "하이큐",
     "aliases": [],
-    "category": "other"
+    "category": "anime"
   },
   {
     "id": "하츠네미쿠",
@@ -1976,6 +3058,12 @@
   {
     "id": "학원아이돌마스터",
     "name": "학원아이돌마스터",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "한국버츄얼",
+    "name": "한국버츄얼",
     "aliases": [],
     "category": "other"
   },
@@ -1998,8 +3086,56 @@
     "category": "other"
   },
   {
+    "id": "해커",
+    "name": "해커",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "핸드메이드",
+    "name": "핸드메이드",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "향기로운꽃은늠름하게핀다",
+    "name": "향기로운꽃은늠름하게핀다",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "허니와클로버",
+    "name": "허니와클로버",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "헌드레드라인최종방위학원",
+    "name": "헌드레드라인최종방위학원",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "헌터x헌터",
+    "name": "헌터X헌터",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "헌터x헌터",
     "name": "헌터x헌터",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "헌터헌터",
+    "name": "헌터헌터",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "헤븐번즈레드",
+    "name": "헤븐번즈레드",
     "aliases": [],
     "category": "other"
   },
@@ -2010,8 +3146,26 @@
     "category": "other"
   },
   {
+    "id": "헥시아",
+    "name": "헥시아",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "헬다이버즈",
+    "name": "헬다이버즈",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "헬루바보스",
     "name": "헬루바보스",
+    "aliases": [],
+    "category": "other"
+  },
+  {
+    "id": "혈계전선",
+    "name": "혈계전선",
     "aliases": [],
     "category": "other"
   },
@@ -2034,6 +3188,12 @@
     "category": "other"
   },
   {
+    "id": "휴먼버그대학교",
+    "name": "휴먼버그대학교",
+    "aliases": [],
+    "category": "other"
+  },
+  {
     "id": "흑집사",
     "name": "흑집사",
     "aliases": [],
@@ -2048,78 +3208,6 @@
   {
     "id": "히프노시스마이크",
     "name": "히프노시스마이크",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "스텔",
-    "name": "스텔",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "에반게이론",
-    "name": "에반게이론",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "뉴럴_클라우드",
-    "name": "뉴럴 클라우드",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "벽람항로",
-    "name": "벽람항로",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "최애의_아이",
-    "name": "최애의 아이",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "철야의_노래",
-    "name": "철야의 노래",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "로블록스헬루바보스헤즈빈호텔델타룬디지털서커스미쿠테토",
-    "name": "로블록스/헬루바보스/헤즈빈호텔/델타룬/디지털서커스/미쿠테토",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "사카데이",
-    "name": "사카데이",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "윈브레",
-    "name": "윈브레",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "도리벤",
-    "name": "도리벤",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "팀포트리스2_로보토미코퍼레이션",
-    "name": "팀포트리스2. 로보토미코퍼레이션",
-    "aliases": [],
-    "category": "other"
-  },
-  {
-    "id": "디지털서커스_다키스트던전",
-    "name": "디지털서커스. 다키스트던전",
     "aliases": [],
     "category": "other"
   }

@@ -36,6 +36,47 @@ export function useBooths(eventId) {
 }
 
 /**
+ * 여러 행사의 부스 수를 일괄 조회
+ * @param {string[]} eventIds
+ * @returns {{ counts: Record<string, number>, loading: boolean }}
+ *
+ * 파일이 없는 행사(404)는 결과 맵에 포함되지 않음
+ */
+export function useBoothCounts(eventIds) {
+  const [counts,  setCounts]  = useState({})
+  const [loading, setLoading] = useState(false)
+
+  useEffect(() => {
+    if (!eventIds || eventIds.length === 0) return
+
+    setLoading(true)
+
+    Promise.all(
+      eventIds.map((id) =>
+        fetch(`/data/booths/${id}.json`)
+          .then((r) => {
+            if (!r.ok) return null
+            return r.json()
+          })
+          .then((json) => {
+            if (!json) return null
+            const list = Array.isArray(json) ? json : (json.list ?? [])
+            return { id, count: list.length }
+          })
+          .catch(() => null)
+      )
+    ).then((results) => {
+      const map = {}
+      results.forEach((r) => { if (r) map[r.id] = r.count })
+      setCounts(map)
+      setLoading(false)
+    })
+  }, [eventIds.join(',')])  // eslint-disable-line react-hooks/exhaustive-deps
+
+  return { counts, loading }
+}
+
+/**
  * 부스 목록 필터링 + 검색 훅
  * @param {object[]} booths
  * @param {object}   options

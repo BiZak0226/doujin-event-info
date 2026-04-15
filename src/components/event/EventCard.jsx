@@ -9,7 +9,7 @@ import {
 } from '../../utils/eventUtils'
 import styles from './EventCard.module.css'
 
-export default function EventCard({ event, eventType }) {
+export default function EventCard({ event, eventType, boothCount }) {
   const navigate = useNavigate()
 
   const { id, name, shortName, type, category, city, venue, dates, status, links } = event
@@ -18,7 +18,6 @@ export default function EventCard({ event, eventType }) {
   const typeColor   = getTypeColor(type)
   const typeBgColor = getTypeBgColor(type)
   const catLabel    = getCategoryLabel(category)
-  const hasBooths   = !!links?.boothData || true  // 파일 존재 여부는 런타임에 확인
 
   const handleBoothClick = (e) => {
     e.stopPropagation()
@@ -107,6 +106,11 @@ export default function EventCard({ event, eventType }) {
             <Store size={13} strokeWidth={1.75} />
             부스 목록
           </button>
+          {boothCount != null && (
+            <span className={styles.boothCount}>
+              {boothCount.toLocaleString()}개
+            </span>
+          )}
         </div>
       </div>
     </article>

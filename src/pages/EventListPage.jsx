@@ -1,6 +1,7 @@
-import { useState } from 'react'
+import { useState, useMemo } from 'react'
 import { CalendarDays, ChevronDown, ChevronUp, Eye, EyeOff } from 'lucide-react'
 import { useFilteredEvents } from '../hooks/useEvents'
+import { useBoothCounts } from '../hooks/useBooths'
 import PageHeader from '../components/common/PageHeader'
 import EmptyState from '../components/common/EmptyState'
 import EventCard from '../components/event/EventCard'
@@ -26,6 +27,13 @@ export default function EventListPage() {
     filterStatus,
     hideOld,
   })
+
+  // 전체 events에서 id 목록 추출 → 부스 수 일괄 조회
+  const allEventIds = useMemo(
+    () => [...upcoming, ...ended].map((e) => e.id),
+    [upcoming, ended]
+  )
+  const { counts: boothCounts } = useBoothCounts(allEventIds)
 
   if (loading) {
     return (
@@ -120,6 +128,7 @@ export default function EventListPage() {
                   key={event.id}
                   event={event}
                   eventType={eventTypes[event.type]}
+                  boothCount={boothCounts[event.id]}
                 />
               ))}
             </div>
@@ -149,6 +158,7 @@ export default function EventListPage() {
                   key={event.id}
                   event={event}
                   eventType={eventTypes[event.type]}
+                  boothCount={boothCounts[event.id]}
                 />
               ))}
             </div>

@@ -1,8 +1,10 @@
+import { useMemo } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { CalendarDays, Store, BookOpen, Users, ArrowRight, RefreshCw } from 'lucide-react'
 import dayjs from 'dayjs'
 import 'dayjs/locale/ko'
 import { useMainEvents } from '../hooks/useEvents'
+import { useBoothCounts } from '../hooks/useBooths'
 import MainEventCard from '../components/event/MainEventCard'
 import EmptyState from '../components/common/EmptyState'
 import styles from './MainPage.module.css'
@@ -32,6 +34,12 @@ export default function MainPage() {
   const { events, mode, eventTypes, loading, error } = useMainEvents()
   const { title, sub } = getSectionLabel(mode)
   const now = dayjs()
+
+  const eventIds = useMemo(() => events.map((e) => e.id), [events])
+  const { counts: boothCounts } = useBoothCounts(eventIds)
+
+  const eventIds = useMemo(() => events.map((e) => e.id), [events])
+  const { counts: boothCounts } = useBoothCounts(eventIds)
 
   return (
     <div className={styles.page}>
@@ -103,6 +111,7 @@ export default function MainPage() {
                 key={event.id}
                 event={event}
                 eventType={eventTypes[event.type]}
+                boothCount={boothCounts[event.id]}
               />
             ))}
           </div>

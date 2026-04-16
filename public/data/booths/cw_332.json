@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-14 02:22:20",
+  "lastUpdate": "2026-04-17 02:24:49",
   "list": [
     {
       "id": "cw-09",
@@ -41,7 +41,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3552982461_07HVegZM_276c33c2742fd98123ef9f39621a83455c8dc1e3.png",
+      "infoImage": "https://comicw.net/data/item/original_1775695201_2870.png",
       "goods": [],
       "links": [
         {
@@ -567,7 +567,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2083777394_2NQfItVm_f9fe7eb3738cf5e4381feadfc04f066ae4ae4945.jpg",
+      "infoImage": "",
       "goods": [],
       "links": [],
       "tags": [
@@ -619,7 +619,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/original_1776265986_8138.png",
       "goods": [],
       "links": [
         {
@@ -812,7 +812,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/978220573_mMX8POV4_5a080809bb7aedb999353adfe277d470ad8d9bc4.jpg",
+      "infoImage": "https://comicw.net/data/item/main_1775540499_6708.jpg",
       "goods": [],
       "links": [
         {
@@ -1867,37 +1867,6 @@
       ]
     },
     {
-      "id": "cv-10",
-      "name": "프리렌누나",
-      "numbers": [
-        "CV_10"
-      ],
-      "displayNumber": "CV_10",
-      "spec": "",
-      "days": [
-        "일",
-        "토"
-      ],
-      "description": "",
-      "artists": [],
-      "infoImage": "",
-      "goods": [],
-      "links": [
-        {
-          "type": "twitter",
-          "url": "https://x.com/_KIMI_J"
-        },
-        {
-          "type": "instagram",
-          "url": "https://instagram.com/kamikimi_j"
-        }
-      ],
-      "tags": [
-        "장송의프리렌",
-        "창작"
-      ]
-    },
-    {
       "id": "cq-09",
       "name": "기적의 만남",
       "numbers": [
@@ -2083,7 +2052,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/original_1776143377_9241.JPG",
       "goods": [],
       "links": [
         {
@@ -2113,7 +2082,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2036726534_gSifY6BN_1e8d95a78ddacc680d9b105fe8c38b38f9bc5c0c.jpg",
+      "infoImage": "https://comicw.net/data/item/main_1776268774_1014.jpg",
       "goods": [],
       "links": [
         {
@@ -2669,7 +2638,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/main_1775803754_1346.png",
       "goods": [],
       "links": [],
       "tags": [
@@ -2934,7 +2903,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1028334907_PT49BucX_ce3b186052084446e7b387fec5f198dca6cdbffb.png",
+      "infoImage": "https://comicw.net/data/item/original_1775476663_4146.png",
       "goods": [],
       "links": [
         {
@@ -3048,7 +3017,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/main_1775146219_1075.jpg",
       "goods": [],
       "links": [
         {
@@ -3120,7 +3089,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/235340270_gVwrHNP1_58f314712816257bdc1bd0c7a94becd4fd83cfba.png",
+      "infoImage": "https://comicw.net/data/item/main_1775575824_1108.png",
       "goods": [],
       "links": [
         {
@@ -3332,7 +3301,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/original_1776236698_8923.jpg",
       "goods": [],
       "links": [
         {
@@ -3365,7 +3334,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2849249720_SrKJxQY7_cca303db61c7db43f6b6d7566cd26bd50aed9b14.png",
+      "infoImage": "https://comicw.net/data/item/main_1773922283_4335.jpg",
       "goods": [],
       "links": [
         {
@@ -3392,7 +3361,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/main_1773924603_2959.png",
       "goods": [],
       "links": [
         {
@@ -3419,7 +3388,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/main_1776334503_7860.png",
       "goods": [],
       "links": [
         {
@@ -3879,7 +3848,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3667510365_quiYeDNT_805e65a52c5488384d8388ef2b97ce3f4bd42cf7.png",
+      "infoImage": "https://comicw.net/data/item/main_1776305646_2700.png",
       "goods": [],
       "links": [
         {
@@ -4001,7 +3970,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1889556702_dRcxhC4n_033f038be4f5e661a7a0236c54943591ffe4b16f.jpg",
+      "infoImage": "https://comicw.net/data/item/original_1774711677_5771.jpg",
       "goods": [],
       "links": [
         {
@@ -4180,7 +4149,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/main_1776356360_7864.jpg",
       "goods": [],
       "links": [
         {
@@ -4469,7 +4438,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/990271563_qtg0hzs2_746bc0a058fde8733b9a6b9e39ed9126690995e4.png",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -4666,7 +4635,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2038960958_jqnEV839_a9fea4c3cf95553cf917e929fb8a9afd89cb269e.png",
+      "infoImage": "https://comicw.net/data/item/original_1775656155_3212.png",
       "goods": [],
       "links": [
         {
@@ -5399,32 +5368,6 @@
       ],
       "tags": [
         "플레이브"
-      ]
-    },
-    {
-      "id": "cx-01",
-      "name": "마시멜로",
-      "numbers": [
-        "CX_01"
-      ],
-      "displayNumber": "CX_01",
-      "spec": "",
-      "days": [
-        "일",
-        "토"
-      ],
-      "description": "",
-      "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3660855531_ubiPMjk3_d693a8e78c4f8684715e3701c2e55a2b99062ce7.jpg",
-      "goods": [],
-      "links": [
-        {
-          "type": "twitter",
-          "url": "https://x.com/hapong07"
-        }
-      ],
-      "tags": [
-        "명조"
       ]
     },
     {
@@ -6299,7 +6242,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/main_1773809433_9665.jpg",
       "goods": [],
       "links": [
         {
@@ -6497,7 +6440,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/original_1776337636_2197.png",
       "goods": [],
       "links": [],
       "tags": [
@@ -6577,7 +6520,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1893338100_c4wYdb6E_e7e77425fc84c3481b96067fe74e0fa3184e9461.jpg",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -6741,7 +6684,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/982370128_Xy1uEtYj_f5e1d1c9ec2fe9fe9d099a140e5bf168dec914c5.png",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -8648,7 +8591,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2010043328_vLHZet1y_027587c87332451c38c683c6133c7632679a5bc7.jpg",
+      "infoImage": "https://comicw.net/data/item/main_1775912690_2850.jpg",
       "goods": [],
       "links": [
         {
@@ -9080,29 +9023,6 @@
       ]
     },
     {
-      "id": "bh-09",
-      "name": "마왕을 물리친 용사",
-      "numbers": [
-        "BH_09",
-        "BH_10"
-      ],
-      "displayNumber": "BH_09~BH_10",
-      "spec": "",
-      "days": [
-        "일",
-        "토"
-      ],
-      "description": "",
-      "artists": [],
-      "infoImage": "",
-      "goods": [],
-      "links": [],
-      "tags": [
-        "스텔라이브",
-        "장송의프리렌"
-      ]
-    },
-    {
       "id": "cf-13",
       "name": "정실은 LCB",
       "numbers": [
@@ -9275,7 +9195,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1028608205_CwoiUNXy_b24e80ffed4c7716c52ce5584e54d7a34ceecadd.jpg",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -10460,6 +10380,37 @@
       ]
     },
     {
+      "id": "ma-17",
+      "name": "라나이스",
+      "numbers": [
+        "MA_17",
+        "MA_18"
+      ],
+      "displayNumber": "MA_17~MA_18",
+      "spec": "",
+      "days": [
+        "일",
+        "토"
+      ],
+      "description": "",
+      "artists": [],
+      "infoImage": "",
+      "goods": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/ranaachaa"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/ranaachaa"
+        }
+      ],
+      "tags": [
+        "니케"
+      ]
+    },
+    {
       "id": "cm-11",
       "name": "후르츠캔디",
       "numbers": [
@@ -10508,7 +10459,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/main_1775917401_2896.jpg",
       "goods": [],
       "links": [
         {
@@ -10534,7 +10485,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3731717445_EDoeM63i_7c15257800dcec8ce6e485d3aac1820c836bc2d0.jpg",
+      "infoImage": "https://comicw.net/data/item/original_1776152581_5618.jpg",
       "goods": [],
       "links": [
         {
@@ -10907,7 +10858,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1995115693_A8ruY5Pq_8f1b9cb25b28e5ebbeeeaa32cb53bf97c5214a93.jpg",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3420861445_LTWDi9oa_f7c214a8eb908971f2eee40e9fd09bb1635d1d68.jpg",
       "goods": [],
       "links": [
         {
@@ -11159,7 +11110,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3068146274_dsUbceyL_e4f5d7a0647a28e7c298af02a91611168cfca1e9.png",
+      "infoImage": "",
       "goods": [],
       "links": [],
       "tags": [
@@ -11248,7 +11199,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1995129408_o3uyWwt6_c190d203cce5ff37f3fa7edc331ffb565942f8a0.png",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3667146001_MHcDOQA7_6dbe59dc4fcb561669750e3c24ae808dfc4bd9b9.png",
       "goods": [],
       "links": [],
       "tags": [
@@ -11272,7 +11223,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1028690378_mFd230j1_a05cdf88ec5e9d4062d0b57160c9ada5fa7fda7e.png",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -11422,7 +11373,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/main_1776252023_5531.png",
       "goods": [],
       "links": [
         {
@@ -11485,7 +11436,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1948944150_I5pAdOP1_ebcb108b034188a29950f4ea7bca68aac7936a6c.png",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -11631,7 +11582,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/981058928_eGYynJkb_2a474e03859f7af8b3b66cd2663a4ef577bf2bd1.png",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -11691,7 +11642,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3025224344_5LmMU6ji_80c0cdb9352fa8b0d74a4ca47dc0050da3dbf60d.jpg",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -11747,7 +11698,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2039017944_zFpmPNbw_44efe7ba9967c564583e6ff598b9ca9ee210febb.png",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -11802,7 +11753,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/31857737_Wy5dhUZf_0ce292dea8eaaa11699b01dc733a8ea267290ef2.jpeg",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -11836,7 +11787,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3076725423_86IlBce0_3a8025cac46dca4ca35db739623e1dec1ff36706.png",
+      "infoImage": "https://comicw.net/data/item/main_1774686918_4129.png",
       "goods": [],
       "links": [
         {
@@ -11957,7 +11908,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/31732823_U7mzv6F2_3ffdceb5b6e4a09cf72e88792991e3cd8ca02bab.jpg",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -12010,7 +11961,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/833229738_DfCVeXrR_b14a85a9ded26e94563fa91349d572470f9cbdc7.png",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -12060,7 +12011,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2950094430_4MdHuS0N_bcc4132ed968227beae450cc0ba9f600c690fcce.png",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -12311,7 +12262,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/661924124_ptjlkUue_5054c88e0770f9324c8cca93ff25190031415401.jpg",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -12337,7 +12288,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3555547757_Ox3EDHwF_2ce3d8759237051938ae389381cf55af28dd107b.png",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -12368,7 +12319,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3543621871_cg3j4sX7_30252e83dc55850976a4a10eb9e7ff2c2ea29dbd.jpg",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -12468,7 +12419,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1030070910_0gGhmHwn_3664c916d16a6d055e60f2e6159d4a4232dcb802.jpg",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -12497,7 +12448,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/30499635_NfoVtImz_f34f659a44d2909b6b4e55e5695746b976c449b0.jpg",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -12555,7 +12506,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2000929594_VGXWPy2d_b58c19b5a93ca3d18e262ebd12956497d91df5e0.jpeg",
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2000929594_xCsWa2jg_e61f2c4e052ddbf6061d23c9ba6f09c9143ab002.jpeg",
       "goods": [],
       "links": [
         {
@@ -12639,7 +12590,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3554343597_WhmwXfqK_b89cfe8a715cea7f032fe210b13608dc1c86da27.jpg",
+      "infoImage": "",
       "goods": [],
       "links": [
         {
@@ -12722,7 +12673,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/661837812_DU6QKyaZ_c0db555fc7145f13bb8db57848a828a6c6e4dae8.png",
+      "infoImage": "https://comicw.net/data/item/main_1774869902_6899.png",
       "goods": [],
       "links": [
         {
@@ -13313,7 +13264,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1888867744_D6Gjx8kA_da9fb09655aa09f42f7f4b896c653885b3947654.png",
+      "infoImage": "https://comicw.net/data/item/main_1775809425_6882.png",
       "goods": [],
       "links": [
         {
@@ -14069,7 +14020,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/original_1775991481_9973.jpg",
       "goods": [],
       "links": [],
       "tags": [
@@ -14122,7 +14073,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3699309722_uXLROnVc_0b1befc575fe477d898750f70474f505c75d4420.png",
+      "infoImage": "https://comicw.net/data/item/main_1776184492_7461.png",
       "goods": [],
       "links": [
         {
@@ -14909,7 +14860,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3717661757_UrWVhBHG_563c18bc0315a0b0a86a0ec2bfdbd9cae79ebaf2.png",
+      "infoImage": "https://comicw.net/data/item/main_1774745789_2759.png",
       "goods": [],
       "links": [
         {
@@ -15045,7 +14996,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/3552788815_4gTsLdn8_e6b6bd8d2455376f9fb72f257141a4a9c1b07ab0.jpg",
+      "infoImage": "https://comicw.net/data/item/main_1776277809_7210.jpg",
       "goods": [],
       "links": [
         {
@@ -15367,7 +15318,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/original_1775803639_1873.png",
       "goods": [],
       "links": [
         {
@@ -15451,7 +15402,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/2949334907_LFINruwQ_4d117e7b3d541bfa53698beb26c653ee7118918c.jpg",
+      "infoImage": "https://comicw.net/data/item/original_1775907189_3247.jpg",
       "goods": [],
       "links": [
         {
@@ -15513,6 +15464,39 @@
       ]
     },
     {
+      "id": "cp-25",
+      "name": "손님! 몇인큐세요?",
+      "numbers": [
+        "CP_25"
+      ],
+      "displayNumber": "CP_25",
+      "spec": "",
+      "days": [
+        "일",
+        "토"
+      ],
+      "description": "",
+      "artists": [],
+      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1994369901_DegujLVn_0c7c13829da85f2458f391943e3a7384a488138d.png",
+      "goods": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/GO9_gg"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/go9_gg_"
+        }
+      ],
+      "tags": [
+        "리그오브레전드",
+        "발로란트",
+        "오버워치",
+        "이터널리턴"
+      ]
+    },
+    {
       "id": "bc-05",
       "name": "길티기열",
       "numbers": [
@@ -15536,6 +15520,33 @@
       ],
       "tags": [
         "길티기어"
+      ]
+    },
+    {
+      "id": "cq-25",
+      "name": "미쿠&포켓모리",
+      "numbers": [
+        "CQ_25"
+      ],
+      "displayNumber": "CQ_25",
+      "spec": "",
+      "days": [
+        "일",
+        "토"
+      ],
+      "description": "",
+      "artists": [],
+      "infoImage": "",
+      "goods": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/mikumorie"
+        }
+      ],
+      "tags": [
+        "포켓몬스터",
+        "하츠네미쿠"
       ]
     },
     {
@@ -15628,11 +15639,12 @@
       "displayNumber": "CO_27",
       "spec": "",
       "days": [
+        "일",
         "토"
       ],
       "description": "",
       "artists": [],
-      "infoImage": "",
+      "infoImage": "https://comicw.net/data/item/original_1775576658_1404.jpg",
       "goods": [],
       "links": [
         {
@@ -15643,6 +15655,32 @@
       "tags": [
         "시광대리인",
         "장송의프리렌"
+      ]
+    },
+    {
+      "id": "cp-26",
+      "name": "봇치 더 아카이브!",
+      "numbers": [
+        "CP_26"
+      ],
+      "displayNumber": "CP_26",
+      "spec": "",
+      "days": [
+        "일",
+        "토"
+      ],
+      "description": "",
+      "artists": [],
+      "infoImage": "",
+      "goods": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/eritoneet"
+        }
+      ],
+      "tags": [
+        "블루아카이브"
       ]
     },
     {
@@ -15680,13 +15718,13 @@
       ]
     },
     {
-      "id": "ma-03",
+      "id": "ma-15",
       "name": "철혈! 이초율",
       "numbers": [
-        "MA_03",
-        "MA_04"
+        "MA_15",
+        "MA_16"
       ],
-      "displayNumber": "MA_03~MA_04",
+      "displayNumber": "MA_15~MA_16",
       "spec": "",
       "days": [
         "일",
@@ -15715,6 +15753,7 @@
       "displayNumber": "CO_28",
       "spec": "",
       "days": [
+        "일",
         "토"
       ],
       "description": "",
@@ -15805,7 +15844,7 @@
       ],
       "description": "",
       "artists": [],
-      "infoImage": "https://comicw.co.kr/data/file/booth_cut/1029921350_qk3cDKCB_6f15a872f28c8f211540ad72ae7e80436cb7515e.png",
+      "infoImage": "https://comicw.net/data/item/main_1775110316_6411.png",
       "goods": [],
       "links": [
         {
@@ -15817,6 +15856,57 @@
         "SRPG",
         "인디게임",
         "인디게임굿즈"
+      ]
+    },
+    {
+      "id": "ma-03",
+      "name": "Dolly",
+      "numbers": [
+        "MA_03",
+        "MA_04"
+      ],
+      "displayNumber": "MA_03~MA_04",
+      "spec": "",
+      "days": [
+        "일",
+        "토"
+      ],
+      "description": "",
+      "artists": [],
+      "infoImage": "",
+      "goods": [],
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/dollychuu"
+        },
+        {
+          "type": "instagram",
+          "url": "https://instagram.com/dollychuu"
+        }
+      ],
+      "tags": [
+        "니케"
+      ]
+    },
+    {
+      "id": "cx-01",
+      "name": "수감자 휴게소",
+      "numbers": [
+        "CX_01"
+      ],
+      "displayNumber": "CX_01",
+      "spec": "",
+      "days": [
+        "일"
+      ],
+      "description": "",
+      "artists": [],
+      "infoImage": "",
+      "goods": [],
+      "links": [],
+      "tags": [
+        "림버스컴퍼니"
       ]
     }
   ]

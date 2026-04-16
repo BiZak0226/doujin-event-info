@@ -38,9 +38,6 @@ export default function MainPage() {
   const eventIds = useMemo(() => events.map((e) => e.id), [events])
   const { counts: boothCounts } = useBoothCounts(eventIds)
 
-  const eventIds = useMemo(() => events.map((e) => e.id), [events])
-  const { counts: boothCounts } = useBoothCounts(eventIds)
-
   return (
     <div className={styles.page}>
 

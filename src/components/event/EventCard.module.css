@@ -170,3 +170,11 @@
   border-color: var(--color-accent);
   color: #fff;
 }
+
+.boothCount {
+  margin-left: auto;
+  font-size: var(--text-xs);
+  font-weight: var(--weight-medium);
+  color: var(--color-text-muted);
+  align-self: center;
+}

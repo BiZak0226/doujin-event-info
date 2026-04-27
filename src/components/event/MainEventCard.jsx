@@ -9,7 +9,7 @@ import {
 } from '../../utils/eventUtils'
 import styles from './MainEventCard.module.css'
 
-export default function MainEventCard({ event, eventType }) {
+export default function MainEventCard({ event, eventType, boothCount }) {
   const navigate = useNavigate()
   const { id, name, type, category, city, venue, dates, status, collaboration } = event
 
@@ -84,6 +84,11 @@ export default function MainEventCard({ event, eventType }) {
           >
             <Store size={14} strokeWidth={1.75} />
             부스 목록
+            {boothCount != null && (
+              <span className={styles.boothCount}>
+                {boothCount.toLocaleString()}개
+              </span>
+            )}
           </button>
           <button
             className={styles.detailBtn}

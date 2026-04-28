@@ -27,10 +27,39 @@ dotenv.config({ path: '.env.local' })
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const dataDir   = resolve(__dirname, '../public/data')
 
+
+// 여기 추가 ↓↓↓
+console.log('URL:', process.env.VITE_SUPABASE_URL)
+console.log(
+  'SERVICE KEY PREFIX:',
+  process.env.SUPABASE_SECRET_KEY?.slice(0, 20)
+)
+
+if (!process.env.SUPABASE_SECRET_KEY) {
+  throw new Error('SUPABASE_SERVICE_ROLE_KEY 없음')
+}
+
+if (
+  process.env.SUPABASE_SECRET_KEY ===
+  process.env.VITE_SUPABASE_ANON_KEY
+) {
+  throw new Error('service role key 대신 anon key를 사용 중입니다.')
+}
+// 여기 추가 ↑↑↑
+
+
+
+// const supabase = createClient(
+//   process.env.VITE_SUPABASE_URL,
+//   process.env.SUPABASE_SECRET_KEY   // service role key — RLS 우회
+// )
+
 const supabase = createClient(
   process.env.VITE_SUPABASE_URL,
-  process.env.SUPABASE_SERVICE_ROLE_KEY   // service role key — RLS 우회
+  process.env.SUPABASE_SECRET_KEY
 )
+
+
 
 // ── 유틸 ─────────────────────────────────────────────────
 function readJSON(filename) {

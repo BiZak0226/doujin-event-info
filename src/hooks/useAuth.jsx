@@ -154,53 +154,50 @@ export function AuthProvider({ children }) {
   // ── 세션 초기화 ──────────────────────────────────────
   useEffect(() => {
     console.log('[Auth] 초기 세션 확인...')
-    supabase.auth.getSession().then(async ({ data: { session }, error }) => {
-      if (error) {
-        console.warn('[Auth] 세션 조회 오류:', error.message)
-        setLoading(false)
-        return
-      }
 
-      if (!session) {
-        console.log('[Auth] 로그인 세션 없음')
-        setLoading(false)
-        return
-      }
-
-      // 토큰 만료 확인
-      const remaining = session.expires_at * 1000 - Date.now()
-      console.log('[Auth] 세션 발견 | 만료까지:', Math.round(remaining / 1000), '초')
-
-      if (remaining < 60 * 1000) {
-        // 1분 미만이면 즉시 갱신
-        console.log('[Auth] 토큰 곧 만료 — 즉시 갱신')
-        await recoverSession()
-      }
-
-      const { data: { session: current } } = await supabase.auth.getSession()
-      if (current?.user) {
-        setUser(current.user)
-        await loadProfile(current.user.id)
-      }
+    // getSession에 타임아웃 보장 — 응답 없으면 3초 후 loading 해제
+    const loadingTimeout = setTimeout(() => {
+      console.warn('[Auth] 세션 확인 타임아웃 — 로딩 강제 해제')
       setLoading(false)
-    })
+    }, 3000)
 
-    // 세션 상태 변경 감지
+    // onAuthStateChange가 초기 세션도 INITIAL_SESSION 이벤트로 알려줌
     const { data: { subscription } } = supabase.auth.onAuthStateChange(
       async (event, session) => {
         console.log('[Auth] 상태 변경:', event)
+        clearTimeout(loadingTimeout)  // 세션 확인 완료 → 타임아웃 취소
+
+        if (event === 'INITIAL_SESSION') {
+          if (session?.user) {
+            setUser(session.user)
+            await loadProfile(session.user.id)
+          }
+          setLoading(false)
+          return
+        }
 
         if (event === 'TOKEN_REFRESHED') {
           console.log('[Auth] 토큰 갱신 완료')
+          return
         }
 
         if (event === 'SIGNED_OUT') {
           console.log('[Auth] 로그아웃 감지')
           setUser(null)
           setProfile(null)
+          setLoading(false)
           return
         }
 
+        if (event === 'SIGNED_IN') {
+          if (session?.user) {
+            setUser(session.user)
+            await loadProfile(session.user.id)
+          }
+          return
+        }
+
+        // 그 외 이벤트
         if (session?.user) {
           setUser(session.user)
           await loadProfile(session.user.id)
@@ -211,8 +208,11 @@ export function AuthProvider({ children }) {
       }
     )
 
-    return () => subscription.unsubscribe()
-  }, [loadProfile, recoverSession])
+    return () => {
+      clearTimeout(loadingTimeout)
+      subscription.unsubscribe()
+    }
+  }, [loadProfile])
 
   // ── 구글 로그인 (항상 계정 선택 화면 표시) ──────────
   const signInWithGoogle = useCallback(async () => {

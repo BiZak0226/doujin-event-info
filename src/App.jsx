@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { AuthProvider } from './hooks/useAuth.jsx'
-import { AdminRoute } from './components/auth/ProtectedRoute'
+import { AdminRoute, AuthRoute } from './components/auth/ProtectedRoute'
 import Layout from './components/layout/Layout'
 
 import MainPage         from './pages/MainPage'
@@ -14,6 +14,7 @@ import StatsPage        from './pages/StatsPage'
 import ContributorsPage from './pages/ContributorsPage'
 import DataImportPage   from './pages/DataImportPage'
 import EventAdminPage   from './pages/EventAdminPage'
+import MyPage           from './pages/MyPage'
 import NotFoundPage     from './pages/NotFoundPage'
 
 export default function App() {
@@ -33,6 +34,11 @@ export default function App() {
             <Route path="/calendar"            element={<CalendarPage />} />
             <Route path="/stats"               element={<StatsPage />} />
             <Route path="/contributors"        element={<ContributorsPage />} />
+
+            {/* 로그인 사용자 라우트 */}
+            <Route path="/my" element={
+              <AuthRoute><MyPage /></AuthRoute>
+            } />
 
             {/* 관리자 전용 라우트 */}
             <Route path="/admin/events" element={

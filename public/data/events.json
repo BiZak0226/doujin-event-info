@@ -53,7 +53,7 @@
       "type": "comicworld",
       "episode": 332,
       "city": "수원",
-      "venue": "수원메쎄 전관",
+      "venue": "수원메쎄",
       "dates": {
         "start": "2026-05-02",
         "end": "2026-05-03"
@@ -439,7 +439,7 @@
       "category": "petit",
       "episode": 5,
       "city": "판교",
-      "venue": "판교역 일대",
+      "venue": "판교역",
       "dates": {
         "start": "2025-09-19",
         "end": "2025-09-20"
@@ -456,7 +456,7 @@
       "category": "petit",
       "episode": 6,
       "city": "순천",
-      "venue": "순천 오천그린광장 일대",
+      "venue": "순천 오천그린광장",
       "dates": {
         "start": "2025-10-17",
         "end": "2025-10-19"

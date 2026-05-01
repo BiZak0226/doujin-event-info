@@ -10,10 +10,15 @@ if (!supabaseUrl || !supabaseAnon) {
   )
 }
 
+// 싱글톤 — 모듈은 한 번만 실행되므로 인스턴스가 중복 생성되지 않음
+console.log('[Supabase] 클라이언트 초기화:', supabaseUrl)
+
 export const supabase = createClient(supabaseUrl, supabaseAnon, {
   auth: {
-    autoRefreshToken:  true,
-    persistSession:    true,
+    autoRefreshToken:   true,
+    persistSession:     true,
     detectSessionInUrl: true,
+    // 스토리지 명시 — localStorage 사용 보장
+    storage: window.localStorage,
   },
 })

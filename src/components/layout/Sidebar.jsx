@@ -43,7 +43,11 @@ const NAV_ADMIN = [
 export default function Sidebar({ mobileOpen, onClose }) {
   const [collapsed,   setCollapsed]   = useState({})
   const [loginOpen,   setLoginOpen]   = useState(false)
-  const { isLoggedIn, isAdmin, profile, signOut } = useAuth()
+  const { isLoggedIn, isAdmin, profile, forceSignOut, loading } = useAuth()
+
+  const handleSignOut = async () => {
+    await forceSignOut()
+  }
 
   const toggleGroup = (label) =>
     setCollapsed(prev => ({ ...prev, [label]: !prev[label] }))
@@ -134,11 +138,27 @@ export default function Sidebar({ mobileOpen, onClose }) {
         {/* 네비게이션 */}
         <nav className={styles.nav} aria-label="주 메뉴">
           {navItems.map(renderNavItem)}
+          {/* 마이페이지 — 로그인 사용자만 표시 */}
+          {isLoggedIn && (
+            <NavLink
+              to="/my"
+              className={({ isActive }) =>
+                `${styles.navItem} ${isActive ? styles.active : ''}`
+              }
+              onClick={onClose}
+            >
+              <User size={16} strokeWidth={1.75} />
+              <span>마이페이지</span>
+            </NavLink>
+          )}
         </nav>
 
         {/* 하단 — 로그인/유저 정보 */}
         <div className={styles.footer}>
-          {isLoggedIn ? (
+          {loading ? (
+            /* 세션 확인 중 — 스켈레톤 */
+            <div className={styles.authSkeleton} />
+          ) : isLoggedIn ? (
             <div className={styles.userArea}>
               {/* 유저 정보 */}
               <div className={styles.userInfo}>
@@ -158,7 +178,7 @@ export default function Sidebar({ mobileOpen, onClose }) {
                 </div>
               </div>
               {/* 로그아웃 */}
-              <button className={styles.logoutBtn} onClick={signOut}>
+              <button className={styles.logoutBtn} onClick={handleSignOut}>
                 <LogOut size={14} strokeWidth={1.75} />
                 로그아웃
               </button>

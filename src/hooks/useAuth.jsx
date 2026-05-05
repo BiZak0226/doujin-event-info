@@ -154,20 +154,20 @@ export function AuthProvider({ children }) {
   // ── 세션 초기화 ──────────────────────────────────────
   useEffect(() => {
     console.log('[Auth] 초기 세션 확인...')
+    let initialized = false  // INITIAL_SESSION 처리 후 SIGNED_IN 중복 방지
 
-    // getSession에 타임아웃 보장 — 응답 없으면 3초 후 loading 해제
     const loadingTimeout = setTimeout(() => {
       console.warn('[Auth] 세션 확인 타임아웃 — 로딩 강제 해제')
       setLoading(false)
     }, 3000)
 
-    // onAuthStateChange가 초기 세션도 INITIAL_SESSION 이벤트로 알려줌
     const { data: { subscription } } = supabase.auth.onAuthStateChange(
       async (event, session) => {
         console.log('[Auth] 상태 변경:', event)
-        clearTimeout(loadingTimeout)  // 세션 확인 완료 → 타임아웃 취소
+        clearTimeout(loadingTimeout)
 
         if (event === 'INITIAL_SESSION') {
+          initialized = true
           if (session?.user) {
             setUser(session.user)
             await loadProfile(session.user.id)
@@ -190,14 +190,20 @@ export function AuthProvider({ children }) {
         }
 
         if (event === 'SIGNED_IN') {
+          if (initialized) {
+            console.log('[Auth] SIGNED_IN 중복 — 무시')
+            return
+          }
+          initialized = true
+
           if (session?.user) {
             setUser(session.user)
             await loadProfile(session.user.id)
           }
+          setLoading(false)  
           return
         }
 
-        // 그 외 이벤트
         if (session?.user) {
           setUser(session.user)
           await loadProfile(session.user.id)
@@ -242,13 +248,14 @@ export function AuthProvider({ children }) {
       console.log('[Auth] localStorage 제거:', k)
     })
 
-    // 2. 로컬 signOut (네트워크 불필요)
+    // 2. 로컬 signOut
     await supabase.auth.signOut({ scope: 'local' }).catch(() => {})
 
-    // 3. 상태 초기화
+    // 3. 상태 초기화 후 페이지 새로고침 (UI 즉시 반영)
     setUser(null)
     setProfile(null)
-    console.log('[Auth] 강제 로그아웃 완료')
+    console.log('[Auth] 강제 로그아웃 완료 — 페이지 새로고침')
+    location.reload()
   }, [])
 
   const value = {

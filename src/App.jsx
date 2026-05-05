@@ -14,6 +14,7 @@ import StatsPage        from './pages/StatsPage'
 import ContributorsPage from './pages/ContributorsPage'
 import DataImportPage   from './pages/DataImportPage'
 import EventAdminPage   from './pages/EventAdminPage'
+import BoothAdminPage   from './pages/BoothAdminPage'
 import MyPage           from './pages/MyPage'
 import NotFoundPage     from './pages/NotFoundPage'
 
@@ -34,6 +35,7 @@ export default function App() {
             <Route path="/calendar"            element={<CalendarPage />} />
             <Route path="/stats"               element={<StatsPage />} />
             <Route path="/contributors"        element={<ContributorsPage />} />
+            <Route path="/admin/booths"        element={<BoothAdminPage />} />
 
             {/* 로그인 사용자 라우트 */}
             <Route path="/my" element={
@@ -44,6 +46,9 @@ export default function App() {
             <Route path="/admin/events" element={
               <AdminRoute><EventAdminPage /></AdminRoute>
             } />
+            {/* <Route path="/admin/booths" element={
+              <AdminRoute><BoothAdminPage /></AdminRoute>
+            } /> */}
             <Route path="/data-import" element={
               <AdminRoute><DataImportPage /></AdminRoute>
             } />

@@ -28,14 +28,23 @@ const NAV_PUBLIC = [
     ],
   },
   { type: 'link', to: '/contributors', icon: Heart, label: '기여자' },
+  // {
+  //   type: 'group', label: '관리',
+  //   children: [
+  //     { to: '/admin/events', icon: Settings,  label: '행사 관리' },
+  //     { to: '/admin/booths', icon: Store,     label: '부스 데이터 관리' },
+  //     { to: '/data-import',  icon: Upload,    label: '데이터 입력' },
+  //   ],
+  // },
 ]
 
 const NAV_ADMIN = [
   {
     type: 'group', label: '관리',
     children: [
-      { to: '/admin/events', icon: Settings, label: '행사 관리' },
-      { to: '/data-import',  icon: Upload,   label: '데이터 입력' },
+      { to: '/admin/events', icon: Settings,  label: '행사 관리' },
+      { to: '/admin/booths', icon: Store,     label: '부스 데이터 관리' },
+      { to: '/data-import',  icon: Upload,    label: '데이터 입력' },
     ],
   },
 ]
@@ -44,6 +53,14 @@ export default function Sidebar({ mobileOpen, onClose }) {
   const [collapsed,   setCollapsed]   = useState({})
   const [loginOpen,   setLoginOpen]   = useState(false)
   const { isLoggedIn, isAdmin, profile, forceSignOut, loading } = useAuth()
+
+  console.log('Sidebar 상태:', {
+    loading,
+    isLoggedIn,
+    isAdmin,
+    profile
+  })
+
 
   const handleSignOut = async () => {
     await forceSignOut()
@@ -201,3 +218,4 @@ export default function Sidebar({ mobileOpen, onClose }) {
     </>
   )
 }
+
